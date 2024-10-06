@@ -1,0 +1,1163 @@
+l_english:
+
+ # This file was made with pain and spite. F*ck you PDX, and f*ck you to whoever wrote / approved the vanilla file. A university dropout should not be better at writing readable code than someone who does it for a living.
+ #
+ # I have done my best to preseve the vanilla data, and this includes some things that don't make sense. Some data has been moved over to countries_cosmetic_l_english.yml for consistency - mostly just instances referring to puppeting by specific nations
+
+ ######Germany######
+ 
+ ##Independent
+ #Generic
+ GER:0 "Germany"
+ GER_DEF:0 "Germany"
+ GER_ADJ:0 "German"
+ #Democratic
+ GER_democratic:0 "German Republic"
+ GER_democratic_DEF:0 "the German Republic"
+ GER_democratic_ADJ:0 "German"
+ #Communist
+ GER_communism:0 "Socialist Republic of Germany"
+ GER_communism_DEF:0 "the Socialist Republic of Germany"
+ GER_communism_ADJ:0 "German"
+ #NonAligned
+ GER_neutrality:1 "German Empire"
+ GER_neutrality_DEF:1 "the German Empire"
+ GER_neutrality_ADJ:0 "German"
+ #Fascist
+ GER_fascism:0 "German Reich"
+ GER_fascism_DEF:0 "the German Reich"
+ GER_fascism_ADJ:0 "German"
+
+ ##Puppet
+ #Generic
+ GER_autonomy_puppet:0 "$OVERLORDADJ$ Germany"
+ GER_autonomy_puppet_DEF:0 "$OVERLORDADJ$ Germany"
+ #Democratic
+ GER_autonomy_supervised_state:0 "$OVERLORDADJ$ Occupation Zone"
+ GER_autonomy_supervised_state_DEF:0 "the $OVERLORDADJ$ Occupation Zone"
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Britain######
+ 
+ ##Independent
+ #Generic
+ ENG:0 "Britain"
+ ENG_DEF:0 "Britain"
+ ENG_ADJ:0 "British"
+ #Democratic
+ ENG_democratic:0 "United Kingdom"
+ ENG_democratic_DEF:0 "the United Kingdom"
+ ENG_democratic_ADJ:0 "British"
+ #Communist
+ ENG_communism:0 "Union of Britain"
+ ENG_communism_DEF:0 "the Union of Britain"
+ ENG_communism_ADJ:0 "British"
+ #NonAligned
+ ENG_neutrality:0 "Great Britain"
+ ENG_neutrality_DEF:0 "the Great Britain"
+ ENG_neutrality_ADJ:0 "British"
+ #Fascist
+ ENG_fascism:0 "British Empire"
+ ENG_fascism_DEF:0 "the British Empire"
+ ENG_fascism_ADJ:0 "British"
+
+ ##Puppet
+ #Generic
+ ENG_neutrality_subject:0 "$OVERLORDADJ$ Britain"
+ ENG_neutrality_subject_DEF:0 "$OVERLORDADJ$ Britain"
+ ENG_communism_subject:0 "Socialist Republic of Great Britain"
+ ENG_communism_subject_DEF:0 "the Socialist Republic of Great Britain"
+ #Democratic
+ ENG_democratic_subject:0 "$OVERLORDADJ$ Britain"
+ ENG_democratic_subject_DEF:0 "$OVERLORDADJ$ Britain"
+ #Fascism
+ ENG_fascism_subject:0 "$OVERLORDADJ$ Protectorate of Britain"
+ ENG_fascism_subject_DEF:0 "the $OVERLORDADJ$ Protectorate of Britain"
+ #Imperial
+ #Collaboration Government
+ 
+ ######Russia######
+ 
+ ##Independent
+ #Generic
+ SOV:0 "Russia"
+ SOV_DEF:0 "Russia"
+ SOV_ADJ:0 "Russian"
+ #Democratic
+ SOV_democratic:0 "Russian Federation"
+ SOV_democratic_DEF:0 "the Russian Federation"
+ SOV_democratic_ADJ:0 "Russian"
+ #Communist
+ SOV_communism:0 "Soviet Union"
+ SOV_communism_DEF:0 "the Soviet Union"
+ SOV_communism_ADJ:0 "Russian"
+ #NonAligned
+ SOV_neutrality:0 "Russia"
+ SOV_neutrality_DEF:0 "Russia"
+ SOV_neutrality_ADJ:0 "Russian"
+ #Fascist
+ SOV_fascism:0 "Russian Empire"
+ SOV_fascism_DEF:0 "the Russian Empire"
+ SOV_fascism_ADJ:0 "Russian"
+
+ ##Puppet
+ #Generic
+ SOV_autonomy_dominion:0 "Russian Dominion"
+ SOV_autonomy_dominion_DEF:0 "the Russian Dominion"
+ SOV_autonomy_colony:0 "$OVERLORDADJ$ Russia"
+ SOV_autonomy_colony_DEF:0 "the $OVERLORDADJ$ Russia"
+ SOV_autonomy_integrated_puppet:0 "Russian Protectorate"
+ SOV_autonomy_integrated_puppet_DEF:0 "the Russian Protectorate"
+ SOV_autonomy_puppet:0 "$OVERLORDADJ$ Russia"
+ SOV_autonomy_puppet_DEF:0 "$OVERLORDADJ$ Russia"
+ #Democratic
+ SOV_autonomy_supervised_state:0 "$OVERLORDADJ$ Mandate of Russia"
+ SOV_autonomy_supervised_state_DEF:0 "the $OVERLORDADJ$ Mandate of Russia"
+ #Fascism
+ SOV_autonomy_reichskommissariat:0 "Reichskommissariat Russia"
+ SOV_autonomy_reichskommissariat_DEF:0 "the Reichskommissariat Russia"
+ SOV_autonomy_reichsprotectorate:0 "Protectorate Russia"
+ SOV_autonomy_reichsprotectorate_DEF:0 "the Protectorate of Russia"
+ #Imperial
+ SOV_autonomy_wtt_imperial_protectorate:0 "Russian Imperial Protectorate"
+ SOV_autonomy_wtt_imperial_protectorate_DEF:0 "the Imperial Protectorate of Russia"
+ #Collaboration Government
+ 
+ ######America######
+ 
+ ##Independent
+ #Generic
+ USA:0 "America"
+ USA_DEF:0 "America"
+ USA_ADJ:0 "American"
+ #Democratic
+ USA_democratic:0 "United States"
+ USA_democratic_DEF:0 "the United States"
+ USA_democratic_ADJ:0 "American"
+ #Communist
+ USA_communism:0 "Communist States of America"
+ USA_communism_DEF:0 "the Communist States of America"
+ USA_communism_ADJ:0 "American"
+ #NonAligned
+ USA_neutrality:2 "America"
+ USA_neutrality_DEF:2 "America"
+ USA_neutrality_ADJ:0 "American"
+ #Fascist
+ USA_fascism:0 "Free American Empire"
+ USA_fascism_DEF:0 "the Free American Empire"
+ USA_fascism_ADJ:0 "American"
+
+ ##Puppet
+ #Generic
+ USA_neutrality_subject:0 "$OVERLORDADJ$ North American Territories"
+ USA_neutrality_subject_DEF:0 "the $OVERLORDADJ$ North American Territories"
+ USA_communism_subject:0 "North American Socialist Republic"
+ USA_communism_subject_DEF:0 "the North American Socialist Republic"
+ #Democratic
+ USA_democratic_subject:0 "$OVERLORDADJ$ North America"
+ USA_democratic_subject_DEF:0 "$OVERLORDADJ$ North America"
+ #Fascism
+ USA_fascism_subject:0 "$OVERLORDADJ$ Protectorate of America"
+ USA_fascism_subject_DEF:0 "the $OVERLORDADJ$ Protectorate of America"
+ #Imperial
+ #Collaboration Government
+ 
+ ######Sweden######
+ 
+ ##Independent
+ #Generic
+ SWE:0 "Sweden"
+ SWE_DEF:0 "Sweden"
+ SWE_ADJ:0 "Swedish"
+ #Democratic
+ SWE_democratic:0 "Sweden"
+ SWE_democratic_DEF:0 "Sweden"
+ SWE_democratic_ADJ:0 "Swedish"
+ #Communist
+ SWE_communism:0 "Folkrepubliken Sverige"
+ SWE_communism_DEF:0 "Folkrepubliken Sverige"
+ SWE_communism_ADJ:0 "Swedish"
+ #NonAligned
+ SWE_neutrality:0 "Kingdom of Sweden"
+ SWE_neutrality_DEF:0 "the Kingdom of Sweden"
+ SWE_neutrality_ADJ:0 "Swedish"
+ #Fascist
+ SWE_fascism:0 "Svea Rike"
+ SWE_fascism_DEF:0 "Svea Rike"
+ SWE_fascism_ADJ:0 "Swedish"
+
+ ##Puppet
+ #Generic
+ SWE_subject:0 "$OVERLORDADJ$ $SWE$"
+ SWE_subject_DEF:0 "$OVERLORDADJ$ $SWE$"
+ SWE_communism_subject: "Svenska Demokratiska Republiken"
+ SWE_communism_subject_DEF: "Svenska Demokratiska Republiken"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######France######
+ 
+ ##Independent
+ #Generic
+ FRA:0 "France"
+ FRA_DEF:0 "France"
+ FRA_ADJ:0 "French"
+ #Democratic
+ FRA_democratic:0 "France"
+ FRA_democratic_DEF:0 "France"
+ FRA_democratic_ADJ:0 "French"
+ #Communist
+ FRA_communism:0 "French Commune"
+ FRA_communism_DEF:0 "the French Commune"
+ FRA_communism_ADJ:0 "French"
+ #NonAligned
+ FRA_neutrality:0 "Bourbon France"
+ FRA_neutrality_DEF:0 "Bourbon France"
+ FRA_neutrality_ADJ:0 "French"
+ #Fascist
+ FRA_fascism:2 "Nation Française"
+ FRA_fascism_DEF:2 "Nation Française"
+ FRA_fascism_ADJ:0 "French"
+
+ ##Puppet
+ #Generic
+ FRA_subject:0 "$OVERLORDADJ$ $FRA$"
+ FRA_subject_DEF:0 "$OVERLORDADJ$ $FRA$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Luxembourg######
+ 
+ ##Independent
+ #Generic
+ LUX:0 "Luxembourg"
+ LUX_DEF:0 "Luxembourg"
+ LUX_ADJ:0 "Luxembourg"
+ #Democratic
+ LUX_democratic:0 "Luxembourg"
+ LUX_democratic_DEF:0 "Luxembourg"
+ LUX_democratic_ADJ:0 "Luxembourg"
+ #Communist
+ LUX_communism:0 "Rosa Luxembourg"
+ LUX_communism_DEF:0 "Rosa Luxembourg"
+ LUX_communism_ADJ:0 "Luxembourg"
+ #NonAligned
+ LUX_neutrality:0 "Royalist Luxembourg"
+ LUX_neutrality_DEF:0 "Royalist Luxembourg"
+ LUX_neutrality_ADJ:0 "Luxembourg"
+ #Fascist
+ LUX_fascism:0 "Luxembourg"
+ LUX_fascism_DEF:0 "Luxembourg"
+ LUX_fascism_ADJ:0 "Luxembourg"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Belgium######
+ 
+ ##Independent
+ #Generic
+ BEL:0 "Belgium"
+ BEL_DEF:0 "Belgium"
+ BEL_ADJ:0 "Belgian"
+ #Democratic
+ BEL_democratic:0 "Belgium"
+ BEL_democratic_DEF:0 "Belgium"
+ BEL_democratic_ADJ:0 "Belgian"
+ #Communist
+ BEL_communism:0 "Co-operative of Belgium"
+ BEL_communism_DEF:0 "the Co-operative of Belgium"
+ BEL_communism_ADJ:0 "Belgian"
+ #NonAligned
+ BEL_neutrality:0 "Leopoldian Belgium"
+ BEL_neutrality_DEF:0 "Leopoldian Belgium"
+ BEL_neutrality_ADJ:0 "Belgian"
+ #Fascist
+ BEL_fascism:0 "Rexist Belgium"
+ BEL_fascism_DEF:0 "Rexist Belgium"
+ BEL_fascism_ADJ:0 "Belgian"
+
+ ##Puppet
+ #Generic
+ BEL_subject:0 "$OVERLORDADJ$ $BEL$"
+ BEL_subject_DEF:0 "$OVERLORDADJ$ $BEL$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Netherlands######
+ 
+ ##Independent
+ #Generic
+ HOL:0 "Netherlands"
+ HOL_DEF:0 "the Netherlands"
+ HOL_ADJ:0 "Dutch"
+ #Democratic
+ HOL_democratic:0 "Netherlands"
+ HOL_democratic_DEF:0 "the Netherlands"
+ HOL_democratic_ADJ:0 "Dutch"
+ #Communist
+ HOL_communism:0 "People's United Provinces"
+ HOL_communism_DEF:0 "the People's United Provinces"
+ HOL_communism_ADJ:0 "Dutch"
+ #NonAligned
+ HOL_neutrality:0 "Kingdom of Netherlands"
+ HOL_neutrality_DEF:0 "the Kingdom of Netherlands"
+ HOL_neutrality_ADJ:0 "Dutch"
+ #Fascist
+ HOL_fascism:0 "Dutch Rijk"
+ HOL_fascism_DEF:0 "Dutch Rijk"
+ HOL_fascism_ADJ:0 "Dutch"
+
+ ##Puppet
+ #Generic
+ HOL_subject:0 "$OVERLORDADJ$ $HOL$"
+ HOL_subject_DEF:0 "$OVERLORDADJ$ $HOL$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Czechoslovakia######
+ 
+ ##Independent
+ #Generic
+ CZE:0 "Czechoslovakia"
+ CZE_DEF:0 "Czechoslovakia"
+ CZE_ADJ:0 "Czechoslovakian"
+ #Democratic
+ CZE_democratic:0 "Czechoslovakia"
+ CZE_democratic_DEF:0 "Czechoslovakia"
+ CZE_democratic_ADJ:0 "Czechoslovakian"
+ #Communist
+ CZE_communism:0 "Czechoslovak Union"
+ CZE_communism_DEF:0 "the Czechoslovak Union"
+ CZE_communism_ADJ:0 "Czechoslovakian"
+ #NonAligned
+ CZE_neutrality:0 "Kingdom of Bohemia"
+ CZE_neutrality_DEF:0 "the Kingdom of Bohemia"
+ CZE_neutrality_ADJ:0 "Czechoslovakian"
+ #Fascist
+ CZE_fascism:0 "Bohemian Empire"
+ CZE_fascism_DEF:0 "the Bohemian Empire"
+ CZE_fascism_ADJ:0 "Czechoslovakian"
+
+ ##Puppet
+ #Generic
+ CZE_subject:0 "$OVERLORDADJ$ $CZE$"
+ CZE_subject_DEF:0 "$OVERLORDADJ$ $CZE$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Poland######
+ 
+ ##Independent
+ #Generic
+ POL:0 "Poland"
+ POL_DEF:0 "Poland"
+ POL_ADJ:0 "Polish"
+ #Democratic
+ POL_democratic:0 "Polish Republic"
+ POL_democratic_DEF:0 "the Polish Republic"
+ POL_democratic_ADJ:0 "Polish"
+ #Communist
+ POL_communism:0 "Polish People's Republic"
+ POL_communism_DEF:0 "the Polish People's Republic"
+ POL_communism_ADJ:0 "Polish"
+ #NonAligned
+ POL_neutrality:0 "Poland"
+ POL_neutrality_DEF:0 "Poland"
+ POL_neutrality_ADJ:0 "Polish"
+ #Fascist
+ POL_fascism:0 "Falangist Poland"
+ POL_fascism_DEF:0 "Falangist Poland"
+ POL_fascism_ADJ:0 "Polish"
+
+ ##Puppet
+ #Generic
+ POL_subject:0 "$OVERLORDADJ$ Poland"
+ POL_subject_DEF:0 "$OVERLORDADJ$ Poland"
+ POL_communism_subject:0 "Socialist Republic of Poland"
+ POL_communism_subject_DEF:0 "the Socialist Republic of Poland"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Austria######
+ 
+ ##Independent
+ #Generic
+ AUS:0 "Austria"
+ AUS_DEF:0 "Austria"
+ AUS_ADJ:0 "Austrian"
+ #Democratic
+ AUS_democratic:0 "Republic of Austria"
+ AUS_democratic_DEF:0 "the Republic of Austria"
+ AUS_democratic_ADJ:0 "Austrian"
+ #Communist
+ AUS_communism:0 "Austrian Soviet Republic"
+ AUS_communism_DEF:0 "the Austrian Soviet Republic"
+ AUS_communism_ADJ:0 "Austrian"
+ #NonAligned
+ AUS_neutrality:0 "Austria"
+ AUS_neutrality_DEF:0 "Austria"
+ AUS_neutrality_ADJ:0 "Austrian"
+ #Fascist
+ AUS_fascism:0 "Deutschsozialen Austria"
+ AUS_fascism_DEF:0 "Deutschsozialen Austria"
+ AUS_fascism_ADJ:0 "Austrian"
+
+ ##Puppet
+ #Generic
+ AUS_subject:0 "$OVERLORDADJ$ $AUS$"
+ AUS_subject_DEF:0 "$OVERLORDADJ$ $AUS$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Lithuania######
+ 
+ ##Independent
+ #Generic
+ LIT:0 "Lithuania"
+ LIT_DEF:0 "Lithuania"
+ LIT_ADJ:0 "Lithuanian"
+ #Democratic
+ LIT_democratic:0 "Republic of Lithuania"
+ LIT_democratic_DEF:0 "the Republic of Lithuania"
+ LIT_democratic_ADJ:0 "Lithuanian"
+ #Communist
+ LIT_communism:1 "Lithuanian People's Republic"
+ LIT_communism_DEF:1 "the Lithuanian People's Republic"
+ LIT_communism_ADJ:0 "Lithuanian"
+ #NonAligned
+ LIT_neutrality:0 "Lithuania"
+ LIT_neutrality_DEF:0 "Lithuania"
+ LIT_neutrality_ADJ:0 "Lithuanian"
+ #Fascist
+ LIT_fascism:0 "Iron Wolf Lithuania"
+ LIT_fascism_DEF:0 "Iron Wolf Lithuania"
+ LIT_fascism_ADJ:0 "Lithuanian"
+
+ ##Puppet
+ #Generic
+ LIT_subject:0 "$OVERLORDADJ$ $LIT$"
+ LIT_subject_DEF:0 "$OVERLORDADJ$ $LIT$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Estonia######
+ 
+ ##Independent
+ #Generic
+ EST:0 "Estonia"
+ EST_DEF:0 "Estonia"
+ EST_ADJ:0 "Estonian"
+ #Democratic
+ EST_democratic:0 "Republic of Estonia"
+ EST_democratic_DEF:0 "the Republic of Estonia"
+ EST_democratic_ADJ:0 "Estonian"
+ #Communist
+ EST_communism:1 "Estonian People's Republic"
+ EST_communism_DEF:1 "the Estonian People's Republic"
+ EST_communism_ADJ:0 "Estonian"
+ #NonAligned
+ EST_neutrality:0 "Estonia"
+ EST_neutrality_DEF:0 "Estonia"
+ EST_neutrality_ADJ:0 "Estonian"
+ #Fascist
+ EST_fascism:1 "Vapsid Estonia"
+ EST_fascism_DEF:1 "Vapsid Estonia"
+ EST_fascism_ADJ:0 "Estonian"
+
+ ##Puppet
+ #Generic
+ EST_subject:0 "$OVERLORDADJ$ $EST$"
+ EST_subject_DEF:0 "$OVERLORDADJ$ $EST$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Latvia######
+ 
+ ##Independent
+ #Generic
+ LAT:0 "Latvia"
+ LAT_DEF:0 "Latvia"
+ LAT_ADJ:0 "Latvian"
+ #Democratic
+ LAT_democratic:0 "Republic of Latvia"
+ LAT_democratic_DEF:0 "the Republic of Latvia"
+ LAT_democratic_ADJ:0 "Latvian"
+ #Communist
+ LAT_communism:0 "Latvian People's Republic"
+ LAT_communism_DEF:0 "the Latvian People's Republic"
+ LAT_communism_ADJ:0 "Latvian"
+ #NonAligned
+ LAT_neutrality:0 "Latvia"
+ LAT_neutrality_DEF:0 "Latvia"
+ LAT_neutrality_ADJ:0 "Latvian"
+ #Fascist
+ LAT_fascism:1 "Thunder Cross Latvia"
+ LAT_fascism_DEF:1 "Thunder Cross Latvia"
+ LAT_fascism_ADJ:0 "Latvian"
+
+ ##Puppet
+ #Generic
+ LAT_subject:0 "$OVERLORDADJ$ $LAT$"
+ LAT_subject_DEF:0 "$OVERLORDADJ$ $LAT$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Spain######
+ 
+ ##Independent
+ #Generic
+ SPR:0 "Spain"
+ SPR_DEF:0 "Spain"
+ SPR_ADJ:0 "Spanish"
+ #Democratic
+ SPR_democratic:0 "Spain"
+ SPR_democratic_DEF:0 "Spain"
+ SPR_democratic_ADJ:0 "Spanish"
+ #Communist
+ SPR_communism:0 "Republican Spain"
+ SPR_communism_DEF:0 "Republican Spain"
+ SPR_communism_ADJ:0 "Spanish"
+ #NonAligned
+ SPR_neutrality:0 "Spanish Empire"
+ SPR_neutrality_DEF:0 "the Spanish Empire"
+ SPR_neutrality_ADJ:0 "Spanish"
+ #Fascist
+ SPR_fascism:0 "Nationalist Spain"
+ SPR_fascism_DEF:0 "Nationalist Spain"
+ SPR_fascism_ADJ:0 "Spanish"
+
+ ##Puppet
+ #Generic
+ SPR_subject:0 "$OVERLORDADJ$ $SPR$"
+ SPR_subject_DEF:0 "$OVERLORDADJ$ $SPR$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Italy######
+ 
+ ##Independent
+ #Generic
+ ITA:0 "Italy"
+ ITA_DEF:0 "Italy"
+ ITA_ADJ:0 "Italian"
+ #Democratic
+ ITA_democratic:0 "Republican Italy"
+ ITA_democratic_DEF:0 "Republican Italy"
+ ITA_democratic_ADJ:0 "Italian"
+ #Communist
+ ITA_communism:0 "Italian Union"
+ ITA_communism_DEF:0 "the Italian Union"
+ ITA_communism_ADJ:0 "Italian"
+ #NonAligned
+ ITA_neutrality:0 "Kingdom of Italy"
+ ITA_neutrality_DEF:0 "the Kingdom of Italy"
+ ITA_neutrality_ADJ:0 "Italian"
+ #Fascist
+ ITA_fascism:0 "Italy"
+ ITA_fascism_DEF:0 "Italy"
+ ITA_fascism_ADJ:0 "Italian"
+
+ ##Puppet
+ #Generic
+ ITA_subject:0 "$OVERLORDADJ$ $ITA$"
+ ITA_subject_DEF:0 "$OVERLORDADJ$ $ITA$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Romania######
+ 
+ ##Independent
+ #Generic
+ ROM:0 "Romania"
+ ROM_DEF:0 "Romania"
+ ROM_ADJ:0 "Romanian"
+ #Democratic
+ ROM_democratic:0 "Romania"
+ ROM_democratic_DEF:0 "Romania"
+ ROM_democratic_ADJ:0 "Romanian"
+ #Communist
+ ROM_communism:0 "Romanian People's Republic"
+ ROM_communism_DEF:0 "the Romanian People's Republic"
+ ROM_communism_ADJ:0 "Romanian"
+ #NonAligned
+ ROM_neutrality:0 "Kingdom of Romania"
+ ROM_neutrality_DEF:0 "the Kingdom of Romania"
+ ROM_neutrality_ADJ:0 "Romanian"
+ #Fascist
+ ROM_fascism:0 "Legionary Romania"
+ ROM_fascism_DEF:0 "Legionary Romania"
+ ROM_fascism_ADJ:0 "Romanian"
+
+ ##Puppet
+ #Generic
+ ROM_subject:0 "$OVERLORDADJ$ $ROM$"
+ ROM_subject_DEF:0 "$OVERLORDADJ$ $ROM$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Yugoslavia######
+ 
+ ##Independent
+ #Generic
+ YUG:0 "Yugoslavia"
+ YUG_DEF:0 "Yugoslavia"
+ YUG_ADJ:0 "Yugoslavian"
+ #Democratic
+ YUG_democratic:0 "Yugoslavian Confederation"
+ YUG_democratic_DEF:0 "the Yugoslavian Confederation"
+ YUG_democratic_ADJ:0 "Yugoslavian"
+ #Communist
+ YUG_communism:0 "SFR Yugoslavia"
+ YUG_communism_DEF:0 "SFR Yugoslavia"
+ YUG_communism_ADJ:0 "Yugoslavian"
+ #NonAligned
+ YUG_neutrality:0 "Yugoslavia"
+ YUG_neutrality_DEF:0 "Yugoslavia"
+ YUG_neutrality_ADJ:0 "Yugoslavian"
+ #Fascist
+ YUG_fascism:0 "Radikalna Yugoslavia"
+ YUG_fascism_DEF:0 "Radikalna Yugoslavia"
+ YUG_fascism_ADJ:0 "Yugoslavian"
+
+ ##Puppet
+ #Generic
+ YUG_subject_DEF:0 "$OVERLORDADJ$ $YUG$"
+ YUG_subject:0 "$OVERLORDADJ$ $YUG$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Switzerland######
+ 
+ ##Independent
+ #Generic
+ SWI:0 "Switzerland"
+ SWI_DEF:0 "Switzerland"
+ SWI_ADJ:0 "Swiss"
+ #Democratic
+ SWI_democratic:0 "Switzerland"
+ SWI_democratic_DEF:1 "the Swiss Confederation"
+ SWI_democratic_ADJ:0 "Swiss"
+ #Communist
+ SWI_communism:0 "United Cantons"
+ SWI_communism_DEF:0 "the United Cantons"
+ SWI_communism_ADJ:0 "Swiss"
+ #NonAligned
+ SWI_neutrality:1 "Helvetic Junta"
+ SWI_neutrality_DEF:1 "the Helvetic Junta"
+ SWI_neutrality_ADJ:1 "Helvetic"
+ #Fascist
+ SWI_fascism:1 "Imperial Helvetia"
+ SWI_fascism_DEF:1 "the Imperial Helvetic Confederation"
+ SWI_fascism_ADJ:1 "Helvetic"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ SWI_democratic_subject:0 "$OVERLORDADJ$ Helvetia"
+ SWI_democratic_subject_DEF:0 "Helvetic"
+ #Fascism
+ SWI_fascism_subject:0 "$OVERLORDADJ$ Alpine Territories"
+ SWI_fascism_subject_DEF:0 "the $OVERLORDADJ$ Alpine Territories"
+ #Imperial
+ #Collaboration Government
+ 
+ ######Turkey######
+ 
+ ##Independent
+ #Generic
+ TUR:0 "Turkey"
+ TUR_DEF:0 "Turkey"
+ TUR_ADJ:0 "Turkish"
+ #Democratic
+ TUR_democratic:0 "Republic of Turkey"
+ TUR_democratic_DEF:0 "the Republic of Turkey"
+ TUR_democratic_ADJ:0 "Turkish"
+ #Communist
+ TUR_communism:0 "Turkish Socialist Republic"
+ TUR_communism_DEF:0 "the Turkish Socialist Republic"
+ TUR_communism_ADJ:0 "Turkish"
+ #NonAligned
+ TUR_neutrality:0 "Turkey"
+ TUR_neutrality_DEF:0 "Turkey"
+ TUR_neutrality_ADJ:0 "Turkish"
+ #Fascist
+ TUR_fascism:1 "Turkish Empire"
+ TUR_fascism_DEF:1 "the Turkish Empire"
+ TUR_fascism_ADJ:0 "Turkish"
+
+ ##Puppet
+ #Generic
+ TUR_subject:0 "$OVERLORDADJ$ $TUR$"
+ TUR_subject_DEF:0 "$OVERLORDADJ$ $TUR$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Greece######
+ 
+ ##Independent
+ #Generic
+ GRE:0 "Greece"
+ GRE_DEF:0 "Greece"
+ GRE_ADJ:0 "Greek"
+ #Democratic
+ GRE_democratic:0 "Hellenic Republic"
+ GRE_democratic_DEF:0 "the Hellenic Republic"
+ GRE_democratic_ADJ:0 "Hellenic"
+ #Communist
+ GRE_communism:0 "Provisional Democratic Greece"
+ GRE_communism_DEF:0 "Provisional Democratic Greece"
+ GRE_communism_ADJ:0 "Greek"
+ #NonAligned
+ GRE_neutrality:0 "Kingdom of Greece"
+ GRE_neutrality_DEF:0 "the Kingdom of Greece"
+ GRE_neutrality_ADJ:0 "Greek"
+ #Fascist
+ GRE_fascism:0 "Hellenic State"
+ GRE_fascism_DEF:0 "the Hellenic State"
+ GRE_fascism_ADJ:0 "Hellenic"
+
+ ##Puppet
+ #Generic
+ GRE_subject:0 "$OVERLORDADJ$ $GRE$"
+ GRE_subject_DEF:0 "$OVERLORDADJ$ $GRE$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Albania######
+ 
+ ##Independent
+ #Generic
+ ALB:0 "Albania"
+ ALB_DEF:0 "Albania"
+ ALB_ADJ:0 "Albanian"
+ #Democratic
+ ALB_democratic:0 "Republic of Albania"
+ ALB_democratic_DEF:0 "the Republic of Albania"
+ ALB_democratic_ADJ:0 "Albanian"
+ #Communist
+ ALB_communism:0 "Socialist Republic of Albania"
+ ALB_communism_DEF:0 "the Socialist Republic of Albania"
+ ALB_communism_ADJ:0 "Albanian"
+ #NonAligned
+ ALB_neutrality:0 "Albania"
+ ALB_neutrality_DEF:0 "Albania"
+ ALB_neutrality_ADJ:0 "Albanian"
+ #Fascist
+ ALB_fascism:0 "Greater Albania"
+ ALB_fascism_DEF:0 "Greater Albania"
+ ALB_fascism_ADJ:0 "Albanian"
+
+ ##Puppet
+ #Generic
+ ALB_subject:0 "$OVERLORDADJ$ $ALB$"
+ ALB_subject_DEF:0 "$OVERLORDADJ$ $ALB$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Norway######
+ 
+ ##Independent
+ #Generic
+ NOR:0 "Norway"
+ NOR_DEF:0 "Norway"
+ NOR_ADJ:0 "Norwegian"
+ #Democratic
+ NOR_democratic:0 "Norway"
+ NOR_democratic_DEF:0 "Norway"
+ NOR_democratic_ADJ:0 "Norwegian"
+ #Communist
+ NOR_communism:1 "Norwegian People's Republic"
+ NOR_communism_DEF:1 "the Norwegian People's Republic"
+ NOR_communism_ADJ:0 "Norwegian"
+ #NonAligned - IDK why but the base game doesn't define these properly
+ #NOR_neutrality:0 "Norway" 
+ #NOR_neutrality_DEF:0 "Norway"
+ NOR_neutrality_ADJ:0 "Norwegian"
+ NOR_neutrality_purple_flag: "Kingdom of Norway"
+ NOR_neutrality_purple_flag_DEF: "the Kingdom of Norway"
+ #Fascist
+ NOR_fascism:0 "Norges Nasjonale Regjering"
+ NOR_fascism_DEF:0 "Den Norges Nasjonale Regjering"
+ NOR_fascism_ADJ:0 "Norwegian"
+
+ ##Puppet
+ #Generic
+ NOR_subject:0 "$OVERLORDADJ$ $NOR$"
+ NOR_subject_DEF:0 "$OVERLORDADJ$ $NOR$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Denmark######
+ 
+ ##Independent
+ #Generic
+ DEN:0 "Denmark"
+ DEN_DEF:0 "Denmark"
+ DEN_ADJ:0 "Danish"
+ #Democratic
+ DEN_democratic:0 "Denmark"
+ DEN_democratic_DEF:0 "Denmark"
+ DEN_democratic_ADJ:0 "Danish"
+ #Communist
+ DEN_communism:0 "Danish Civil Union"
+ DEN_communism_DEF:0 "the Danish Civil Union"
+ DEN_communism_ADJ:0 "Danish"
+ #NonAligned
+ DEN_neutrality:0 "Kingdom of Denmark"
+ DEN_neutrality_DEF:0 "the Kingdom of Denmark"
+ DEN_neutrality_ADJ:0 "Danish"
+ #Fascist
+ DEN_fascism:0 "Danevælde"
+ DEN_fascism_DEF:0 "Danevælden"
+ DEN_fascism_ADJ:0 "Danish"
+
+ ##Puppet
+ #Generic
+ DEN_subject:0 "$OVERLORDADJ$ $DEN$"
+ DEN_subject_DEF:0 "$OVERLORDADJ$ $DEN$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Bulgaria######
+ 
+ ##Independent
+ #Generic
+ BUL:0 "Bulgaria"
+ BUL_DEF:0 "Bulgaria"
+ BUL_ADJ:0 "Bulgarian"
+ #Democratic
+ BUL_democratic:0 "Republic of Bulgaria"
+ BUL_democratic_DEF:0 "the Republic of Bulgaria"
+ BUL_democratic_ADJ:0 "Bulgarian"
+ #Communist
+ BUL_communism:0 "Socialist Republic of Bulgaria"
+ BUL_communism_DEF:0 "the Socialist Republic of Bulgaria"
+ BUL_communism_ADJ:0 "Bulgarian"
+ #NonAligned
+ BUL_neutrality:0 "Bulgaria"
+ BUL_neutrality_DEF:0 "Bulgaria"
+ BUL_neutrality_ADJ:0 "Bulgarian"
+ #Fascist
+ BUL_fascism:0 "Legionnaires Bulgaria"
+ BUL_fascism_DEF:0 "Legionnaires Bulgaria"
+ BUL_fascism_ADJ:0 "Bulgarian"
+
+ ##Puppet
+ #Generic
+ BUL_subject:0 "$OVERLORDADJ$ $BUL$"
+ BUL_subject_DEF:0 "$OVERLORDADJ$ $BUL$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Portugal######
+ 
+ ##Independent
+ #Generic
+ POR:0 "Portugal"
+ POR_DEF:0 "Portugal"
+ POR_ADJ:0 "Portuguese"
+ #Democratic
+ POR_democratic:0 "Portuguese Republic"
+ POR_democratic_DEF:0 "the Portuguese Republic"
+ POR_democratic_ADJ:0 "Portuguese"
+ #Communist
+ POR_communism:0 "Maximalist Portugal"
+ POR_communism_DEF:0 "Maximalist Portugal"
+ POR_communism_ADJ:0 "Portuguese"
+ #NonAligned
+ POR_neutrality:0 "Portugal"
+ POR_neutrality_DEF:0 "Portugal"
+ POR_neutrality_ADJ:0 "Portuguese"
+ #Fascist
+ POR_fascism:0 "Greater Portugal"
+ POR_fascism_DEF:0 "Greater Portugal"
+ POR_fascism_ADJ:0 "Portuguese"
+
+ ##Puppet
+ #Generic
+ POR_subject:0 "$OVERLORDADJ$ $POR$"
+ POR_subject_DEF:0 "$OVERLORDADJ$ $POR$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Finland######
+ 
+ ##Independent
+ #Generic
+ FIN:0 "Finland"
+ FIN_DEF:0 "Finland"
+ FIN_ADJ:0 "Finnish"
+ #Democratic
+ FIN_democratic:1 "Republic of Finland"
+ FIN_democratic_DEF:1 "the Republic of Finland"
+ FIN_democratic_ADJ:0 "Finnish"
+ #Communist
+ FIN_communism:0 "Socialist Republic of Finland"
+ FIN_communism_DEF:0 "theSocialist Republic of Finland"
+ FIN_communism_ADJ:0 "Finnish"
+ #NonAligned
+ FIN_neutrality:1 "Finland"
+ FIN_neutrality_DEF:1 "Finland"
+ FIN_neutrality_ADJ:0 "Finnish"
+ #Fascist
+ FIN_fascism:0 "White Finland"
+ FIN_fascism_DEF:0 "White Finland"
+ FIN_fascism_ADJ:0 "Finnish"
+
+ ##Puppet
+ #Generic
+ FIN_subject:0 "$OVERLORDADJ$ $FIN$"
+ FIN_subject_DEF:0 "$OVERLORDADJ$ $FIN$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Ireland######
+ 
+ ##Independent
+ #Generic
+ IRE:0 "Ireland"
+ IRE_DEF:0 "Ireland"
+ IRE_ADJ:0 "Irish"
+ #Democratic
+ IRE_democratic:0 "Ireland"
+ IRE_democratic_DEF:0 "Ireland"
+ IRE_democratic_ADJ:0 "Irish"
+ #Communist
+ IRE_communism:0 "Irish People's Union"
+ IRE_communism_DEF:0 "the Irish People's Union"
+ IRE_communism_ADJ:0 "Irish"
+ #NonAligned
+ IRE_neutrality:0 "Free Ireland"
+ IRE_neutrality_DEF:0 "Free Ireland"
+ IRE_neutrality_ADJ:0 "Irish"
+ #Fascist
+ IRE_fascism:0 "Resurrectionist Ireland"
+ IRE_fascism_DEF:0 "Resurrectionist Ireland"
+ IRE_fascism_ADJ:0 "Irish"
+
+ ##Puppet
+ #Generic
+ IRE_subject:0 "$OVERLORDADJ$ $IRE$"
+ IRE_subject_DEF:0 "$OVERLORDADJ$ $IRE$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Hungary######
+ 
+ ##Independent
+ #Generic
+ HUN:0 "Hungary"
+ HUN_DEF:0 "Hungary"
+ HUN_ADJ:0 "Hungarian"
+ #Democratic
+ HUN_democratic:0 "Republic of Hungary"
+ HUN_democratic_DEF:0 "the Republic of Hungary"
+ HUN_democratic_ADJ:0 "Hungarian"
+ #Communist
+ HUN_communism:0 "Hungarian People's Republic"
+ HUN_communism_DEF:0 "the Hungarian People's Republic"
+ HUN_communism_ADJ:0 "Hungarian"
+ #NonAligned
+ HUN_neutrality:0 "Kingdom of Hungary"
+ HUN_neutrality_DEF:1 "the Kingdom of Hungary"
+ HUN_neutrality_ADJ:0 "Hungarian"
+ #Fascist
+ HUN_fascism:0 "Hungary"
+ HUN_fascism_DEF:0 "Hungary"
+ HUN_fascism_ADJ:0 "Hungarian"
+
+ ##Puppet
+ #Generic
+ HUN_subject:0 "$OVERLORDADJ$ $HUN$"
+ HUN_subject_DEF:0 "$OVERLORDADJ$ $HUN$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Afghanistan######
+ 
+ ##Independent
+ #Generic
+ AFG:0 "Afghanistan"
+ AFG_DEF:0 "Afghanistan"
+ AFG_ADJ:0 "Afghan"
+ #Democratic
+ AFG_democratic:0 "Republic of Afghanistan"
+ AFG_democratic_DEF:0 "the Republic of Afghanistan"
+ AFG_democratic_ADJ:0 "Afghan"
+ #Communist
+ AFG_communism:0 "Democratic Republic of Afghanistan"
+ AFG_communism_DEF:0 "the Democratic Republic of Afghanistan"
+ AFG_communism_ADJ:0 "Afghan"
+ #NonAligned
+ AFG_neutrality:0 "Afghanistan"
+ AFG_neutrality_DEF:0 "Afghanistan"
+ AFG_neutrality_ADJ:0 "Afghan"
+ #Fascist
+ AFG_fascism:1 "New Afghan Empire"
+ AFG_fascism_DEF:1 "New Afghan Empire"
+ AFG_fascism_ADJ:0 "Afghan"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Argentina######
+ 
+ ##Independent
+ #Generic
+ ARG:0 "Argentina"
+ ARG_DEF:0 "Argentina"
+ ARG_ADJ:0 "Argentinean"
+ #Democratic
+ ARG_democratic:0 "Argentine Republic"
+ ARG_democratic_DEF:0 "the Argentine Republic"
+ ARG_democratic_ADJ:0 "Argentinean"
+ #Communist
+ ARG_communism:0 "Argentina Populares"
+ ARG_communism_DEF:0 "Argentina Populares"
+ ARG_communism_ADJ:0 "Argentinean"
+ #NonAligned
+ ARG_neutrality:0 "Argentina"
+ ARG_neutrality_DEF:0 "Argentina"
+ ARG_neutrality_ADJ:0 "Argentinean"
+ #Fascist
+ ARG_fascism:0 "Argentine League"
+ ARG_fascism_DEF:0 "the Argentine League"
+ ARG_fascism_ADJ:0 "Argentinean"
+
+ ##Puppet
+ #Generic
+ ARG_subject:0 "$OVERLORDADJ$ $ARG$"
+ ARG_subject_DEF:0 "$OVERLORDADJ$ $ARG$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Bolivia######
+ 
+ ##Independent
+ #Generic
+ BOL:0 "Bolivia"
+ BOL_DEF:0 "Bolivia"
+ BOL_ADJ:0 "Bolivian"
+ #Democratic
+ BOL_democratic:0 "Bolivian Republic"
+ BOL_democratic_DEF:0 "the Bolivian Republic"
+ BOL_democratic_ADJ:0 "Bolivian"
+ #Communist
+ BOL_communism:0 "Bolivia Izquerdista"
+ BOL_communism_DEF:0 "Bolivia Izquerdista"
+ BOL_communism_ADJ:0 "Bolivian"
+ #NonAligned
+ BOL_neutrality:0 "Bolivia"
+ BOL_neutrality_DEF:0 "Bolivia"
+ BOL_neutrality_ADJ:0 "Bolivian"
+ #Fascist
+ BOL_fascism:0 "Falangist Bolivia"
+ BOL_fascism_DEF:0 "Falangist Bolivia"
+ BOL_fascism_ADJ:0 "Bolivian"
+
+ ##Puppet
+ #Generic
+ BOL_subject:0 "$OVERLORDADJ$ $BOL$"
+ BOL_subject_DEF:0 "$OVERLORDADJ$ $BOL$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Brazil######
+ 
+ ##Independent
+ #Generic
+ BRA:0 "Brazil"
+ BRA_DEF:0 "Brazil"
+ BRA_ADJ:0 "Brazilian"
+ #Democratic
+ BRA_democratic:0 "Second Brazilian Republic"
+ BRA_democratic_DEF:0 "the Second Brazilian Republic"
+ BRA_democratic_ADJ:0 "Brazilian"
+ #Communist
+ BRA_communism:0 "Brazilian Socialist Republic"
+ BRA_communism_DEF:0 "the Brazilian Socialist Republic"
+ BRA_communism_ADJ:0 "Brazilian"
+ BRA_anarchist_communism: "Cangaço Brazil"
+ BRA_anarchist_communism_DEF: "Cangaço Brazil"
+ #NonAligned
+ BRA_neutrality:0 "Brazil"
+ BRA_neutrality_DEF:0 "Brazil"
+ BRA_neutrality_ADJ:0 "Brazilian"
+ #Fascist
+ BRA_fascism:0 "Integralist Brazil"
+ BRA_fascism_DEF:0 "Integralist Brazil"
+ BRA_fascism_ADJ:0 "Brazilian"
+
+ ##Puppet
+ #Generic
+ BRA_subject:0 "$OVERLORDADJ$ $BRA$"
+ BRA_subject_DEF:0 "$OVERLORDADJ$ $BRA$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ 

@@ -8,7 +8,7 @@ The aim of this project is to rewrite these files, to make them somewhat reasona
 The main changes to be implemented by this mod include
 Sorting nations into an understandable order
 Making nation entries formatted in a reasonable way
-Adding code comments
+Adding code comments where relevant
 
 Licensing shit:
 You're free to use this framework for the creation of your own mods. Any free mod which utilises this framework in it's creation must credit the original author. Any paid mod must first contact the original author to discuss terms before this framework can be used.
