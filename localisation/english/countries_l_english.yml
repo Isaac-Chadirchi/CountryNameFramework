@@ -1160,4 +1160,79 @@ l_english:
  #Imperial
  #Collaboration Government
  
+ ######Canada######
  
+ ##Independent
+ #Generic
+ CAN:0 "Canada"
+ CAN_DEF:0 "Canada"
+ CAN_ADJ:0 "Canadian"
+ #Democratic
+ CAN_democratic:0 "Canada"
+ CAN_democratic_DEF:0 "Canada"
+ CAN_democratic_ADJ:0 "Canadian"
+ #Communist
+ CAN_communism:0 "Canada Popular State"
+ CAN_communism_DEF:0 "the Canada Popular State"
+ CAN_communism_ADJ:0 "Canadian"
+ #NonAligned
+ CAN_neutrality:0 "Free Canadian Republic"
+ CAN_neutrality_DEF:0 "the Free Canadian Republic"
+ CAN_neutrality_ADJ:0 "Canadian"
+ #Fascist
+ CAN_fascism:0 "Unitary Canada"
+ CAN_fascism_DEF:0 "Unitary Canada"
+ CAN_fascism_ADJ:0 "Canadian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######China######
+ 
+ ##Independent
+ #Generic
+ CHI:0 "China"
+ CHI_DEF:0 "China"
+ CHI_ADJ:0 "Chinese"
+ #Democratic
+ CHI_democratic:0 "Republic of China"
+ CHI_democratic_DEF:0 "the Republic of China"
+ CHI_democratic_ADJ:0 "Chinese"
+ #Communist
+ CHI_communism:0 "Chinese People's Republic"
+ CHI_communism_DEF:0 "the Chinese People's Republic"
+ CHI_communism_ADJ:0 "Chinese"
+ #NonAligned
+ CHI_neutrality:0 "China"
+ CHI_neutrality_DEF:0 "China"
+ CHI_neutrality_ADJ:0 "Chinese"
+ #Fascist
+ CHI_fascism:0 "Reorganized Nationalist China"
+ CHI_fascism_DEF:0 "Reorganized Nationalist China"
+ CHI_fascism_ADJ:0 "Chinese"
+
+ ##Puppet
+ #Generic
+ CHI_autonomy_dominion:0 "Chinese Dominion"
+ CHI_autonomy_dominion_DEF:0 "the Chinese Dominion"
+ CHI_autonomy_colony:0 "$OVERLORDADJ$ Chinese colony"
+ CHI_autonomy_colony_DEF:0 "the $OVERLORDADJ$ Chinese colony"
+ CHI_autonomy_integrated_puppet:0 "$OVERLORDADJ$ China Territory"
+ CHI_autonomy_integrated_puppet_DEF:0 "the $OVERLORDADJ$ China Territory"
+ CHI_autonomy_puppet:0 "$OVERLORDADJ$ China"
+ CHI_autonomy_puppet_DEF:0 "$OVERLORDADJ$ China"
+ #Democratic
+ CHI_autonomy_supervised_state:0 "$OVERLORDADJ$ China"
+ CHI_autonomy_supervised_state_DEF:0 "$OVERLORDADJ$ China"
+ #Fascism
+ CHI_autonomy_reichskommissariat:0 "Kommissariat of China"
+ CHI_autonomy_reichskommissariat_DEF:0 "the Kommissariat of China"
+ CHI_autonomy_reichsprotectorate:0 "Chinese Protectorate"
+ CHI_autonomy_reichsprotectorate_DEF:0 "the Chinese Protectorate"
+ #Imperial
+ # For specific Japanese Puppet names, see countries_cosmetic
+ #Collaboration Government
