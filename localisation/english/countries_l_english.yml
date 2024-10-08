@@ -1923,4 +1923,380 @@ l_english:
  #Imperial
  #Collaboration Government
  
+ ######Sinkiang######
+ 
+ ##Independent
+ #Generic
+ SIK:0 "Sinkiang"
+ SIK_DEF:0 "Sinkiang"
+ SIK_ADJ:0 "Sinkiang"
+ #Democratic
+ SIK_democratic:0 "Sinkiang Independent Republic"
+ SIK_democratic_DEF:0 "the Sinkiang Independent Republic"
+ SIK_democratic_ADJ:0 "Sinkiang"
+ #Communist
+ SIK_communism:0 "Sinkiang"
+ SIK_communism_DEF:0 "Sinkiang"
+ SIK_communism_ADJ:0 "Sinkiang"
+ #NonAligned
+ SIK_neutrality:0 "State of Sinkiang"
+ SIK_neutrality_DEF:0 "State of Sinkiang"
+ SIK_neutrality_ADJ:0 "Sinkiang"
+ #Fascist
+ SIK_fascism:0 "Dictatorial Sinkiang"
+ SIK_fascism_DEF:0 "Dictatorial Sinkiang"
+ SIK_fascism_ADJ:0 "Sinkiang"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Tannu Tuva######
+ 
+ ##Independent
+ #Generic
+ TAN:0 "Tannu Tuva"
+ TAN_DEF:0 "Tannu Tuva"
+ TAN_ADJ:0 "Tuvan"
+ #Democratic
+ TAN_democratic:0 "Tuvan Independent Republic"
+ TAN_democratic_DEF:0 "the Tuvan Independent Republic"
+ TAN_democratic_ADJ:0 "Tuvan"
+ #Communist
+ TAN_communism:0 "Tannu Tuva"
+ TAN_communism_DEF:0 "Tannu Tuva"
+ TAN_communism_ADJ:0 "Tuvan"
+ #NonAligned
+ TAN_neutrality:0 "Tannu Uriankhai"
+ TAN_neutrality_DEF:0 "Tannu Uriankhai"
+ TAN_neutrality_ADJ:0 "Tuvan"
+ #Fascist
+ TAN_fascism:0 "Tuvan Nationalist Republic"
+ TAN_fascism_DEF:0 "the Tuvan Nationalist Republic"
+ TAN_fascism_ADJ:0 "Tuvan"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Tibet######
+ 
+ ##Independent
+ #Generic
+ TIB:0 "Tibet"
+ TIB_DEF:0 "Tibet"
+ TIB_ADJ:0 "Tibetan"
+ #Democratic
+ TIB_democratic:0 "Republic of Tibet"
+ TIB_democratic_DEF:0 "the Republic of Tibet"
+ TIB_democratic_ADJ:0 "Tibetan"
+ #Communist
+ TIB_communism:0 "Monastic Commune of Tibet"
+ TIB_communism_DEF:0 "Monastic Commune of Tibet"
+ TIB_communism_ADJ:0 "Tibetan"
+ #NonAligned
+ TIB_neutrality:0 "Tibet"
+ TIB_neutrality_DEF:0 "Tibet"
+ TIB_neutrality_ADJ:0 "Tibetan"
+ #Fascist
+ TIB_fascism:0 "Tibetan Empire"
+ TIB_fascism_DEF:0 "the Tibetan Empire"
+ TIB_fascism_ADJ:0 "Tibetan"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Venezuela######
+ 
+ ##Independent
+ #Generic
+ VEN:0 "Venezuela"
+ VEN_DEF:0 "Venezuela"
+ VEN_ADJ:0 "Venezuelan"
+ #Democratic
+ VEN_democratic:0 "Federal Republic of Venezuela"
+ VEN_democratic_DEF:0 "the Federal Republic of Venezuela"
+ VEN_democratic_ADJ:0 "Venezuelan"
+ #Communist
+ VEN_communism:0 "Leftist International Venezuela"
+ VEN_communism_DEF:0 "Leftist International Venezuela"
+ VEN_communism_ADJ:0 "Venezuelan"
+ #NonAligned
+ VEN_neutrality:0 "Bolivarian Venezuela"
+ VEN_neutrality_DEF:0 "Bolivarian Venezuela"
+ VEN_neutrality_ADJ:0 "Venezuelan"
+ #Fascist
+ VEN_fascism:0 "Venezuela"
+ VEN_fascism_DEF:0 "Venezuela"
+ VEN_fascism_ADJ:0 "Venezuelan"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Yunnan######
+ 
+ ##Independent
+ #Generic
+ YUN:0 "Yunnan"
+ YUN_DEF:0 "Yunnan"
+ YUN_ADJ:0 "Yunnanese"
+ #Democratic
+ YUN_democratic:0 "Yunnan"
+ YUN_democratic_DEF:0 "Yunnan"
+ YUN_democratic_ADJ:0 "Yunnanese"
+ #Communist
+ YUN_communism:0 "Yunnan"
+ YUN_communism_DEF:0 "Yunnan"
+ YUN_communism_ADJ:0 "Yunnanese"
+ #NonAligned
+ YUN_neutrality:0 "Yunnan"
+ YUN_neutrality_DEF:0 "Yunnan"
+ YUN_neutrality_ADJ:0 "Yunnanese"
+ #Fascist
+ YUN_fascism:0 "Yunnan"
+ YUN_fascism_DEF:0 "Yunnan"
+ YUN_fascism_ADJ:0 "Yunnanese"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Australia######
+ 
+ ##Independent
+ #Generic
+ AST:0 "Australia"
+ AST_DEF:0 "Australia"
+ AST_ADJ:0 "Australian"
+ #Democratic
+ AST_democratic:0 "Australia"
+ AST_democratic_DEF:0 "Australia"
+ AST_democratic_ADJ:0 "Australian"
+ #Communist
+ AST_communism:0 "Australian People's Republic"
+ AST_communism_DEF:0 "the Australian People's Republic"
+ AST_communism_ADJ:0 "Australian"
+ #NonAligned
+ AST_neutrality:0 "Emu Empire"
+ AST_neutrality_DEF:0 "the Emu Empire"
+ AST_neutrality_ADJ:0 "Australian"
+ #Fascist
+ AST_fascism:0 "Centralist Australia"
+ AST_fascism_DEF:0 "Centralist Australia"
+ AST_fascism_ADJ:0 "Australian"
+
+ ##Puppet
+ #Generic
+ AST_autonomy_dominion:0 "Australia"
+ AST_autonomy_dominion_DEF:0 "the Dominion of Australia"
+ AST_subject:0 "$OVERLORDADJ$ $AST$"
+ AST_subject_DEF:0 "$OVERLORDADJ$ $AST$"
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######New Zealand######
+ 
+ ##Independent
+ #Generic
+ NZL:0 "New Zealand"
+ NZL_DEF:0 "New Zealand"
+ NZL_ADJ:0 "New Zealand"
+ #Democratic
+ NZL_democratic:0 "New Zealand"
+ NZL_democratic_DEF:0 "New Zealand"
+ NZL_democratic_ADJ:0 "New Zealand"
+ #Communist
+ NZL_communism:0 "People's Republic of Aotearoa"
+ NZL_communism_DEF:0 "the People's Republic of Aotearoa"
+ NZL_communism_ADJ:0 "Aotearoan"
+ #NonAligned
+ NZL_neutrality:0 "Nova Zealandia Republic"
+ NZL_neutrality_DEF:0 "the Nova Zealandia Republic"
+ NZL_neutrality_ADJ:0 "New Zealand"
+ #Fascist
+ NZL_fascism:0 "Kiwi Empire"
+ NZL_fascism_DEF:0 "the Kiwi Empire"
+ NZL_fascism_ADJ:0 "Kiwi Empire"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Uruguay######
+ 
+ ##Independent
+ #Generic
+ URG:0 "Uruguay"
+ URG_DEF:0 "Uruguay"
+ URG_ADJ:0 "Uruguayan"
+ #Democratic
+ URG_democratic:0 "Uruguay"
+ URG_democratic_DEF:0 "Uruguay"
+ URG_democratic_ADJ:0 "Uruguayan"
+ #Communist
+ URG_communism:0 "Socialist Republic of Uruguay"
+ URG_communism_DEF:0 "the Socialist Republic of Uruguay"
+ URG_communism_ADJ:0 "Uruguayan"
+ #NonAligned
+ URG_neutrality:0 "Uruguay"
+ URG_neutrality_DEF:0 "Uruguay"
+ URG_neutrality_ADJ:0 "Uruguayan"
+ #Fascist
+ URG_fascism:0 "New Constitutional Uruguay"
+ URG_fascism_DEF:0 "New Constitutional Uruguay"
+ URG_fascism_ADJ:0 "Uruguayan"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Cuba######
+ 
+ ##Independent
+ #Generic
+ CUB:0 "Cuba"
+ CUB_DEF:0 "Cuba"
+ CUB_ADJ:0 "Cuban"
+ #Democratic
+ CUB_democratic:0 "Cuba"
+ CUB_democratic_DEF:0 "Cuba"
+ CUB_democratic_ADJ:0 "Cuban"
+ #Communist
+ CUB_communism:0 "Revolutionary Cuba"
+ CUB_communism_DEF:0 "Revolutionary Cuba"
+ CUB_communism_ADJ:0 "Cuban"
+ #NonAligned
+ CUB_neutrality:1 "Republic of Cuba"
+ CUB_neutrality_DEF:1 "Republic of Cuba"
+ CUB_neutrality_ADJ:0 "Cuban"
+ #Fascist
+ CUB_fascism:0 "Falangist Cuba"
+ CUB_fascism_DEF:0 "Falangist Cuba"
+ CUB_fascism_ADJ:0 "Cuban"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Dominican Republic######
+ 
+ ##Independent
+ #Generic
+ DOM:0 "Dominican Republic"
+ DOM_DEF:0 "the Dominican Republic"
+ DOM_ADJ:0 "Dominican"
+ #Democratic
+ DOM_democratic:0 "Representative Dominican Republic"
+ DOM_democratic_DEF:0 "the Representative Dominican Republic"
+ DOM_democratic_ADJ:0 "Dominican"
+ #Communist
+ DOM_communism:0 "Dominican People's Republic"
+ DOM_communism_DEF:0 "the Dominican People's Republic"
+ DOM_communism_ADJ:0 "Dominican"
+ #NonAligned
+ DOM_neutrality:0 "Santo Domingo"
+ DOM_neutrality_DEF:0 "Santo Domingo"
+ DOM_neutrality_ADJ:0 "Dominican"
+ #Fascist
+ DOM_fascism:0 "Dominican Republic"
+ DOM_fascism_DEF:0 "the Dominican Republic"
+ DOM_fascism_ADJ:0 "Dominican"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Haiti######
+ 
+ ##Independent
+ #Generic
+ HAI:0 "Haiti"
+ HAI_DEF:0 "Haiti"
+ HAI_ADJ:0 "Haitian"
+ #Democratic
+ HAI_democratic:0 "Haiti"
+ HAI_democratic_DEF:0 "Haiti"
+ HAI_democratic_ADJ:0 "Haitian"
+ #Communist
+ HAI_communism:0 "Haiti Socialist Republic"
+ HAI_communism_DEF:0 "the Haiti Socialist Republic"
+ HAI_communism_ADJ:0 "Haitian"
+ #NonAligned
+ HAI_neutrality:0 "Kingdom of Haiti"
+ HAI_neutrality_DEF:0 "the Kingdom of Haiti"
+ HAI_neutrality_ADJ:0 "Haitian"
+ #Fascist
+ HAI_fascism:0 "Third Empire of Haiti"
+ HAI_fascism_DEF:0 "Third Empire of Haiti"
+ HAI_fascism_ADJ:0 "Haitian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Oman######
+ 
+ ##Independent
+ #Generic
+ OMA:0 "Oman"
+ OMA_DEF:0 "Oman"
+ OMA_ADJ:0 "Oman"
+ #Democratic
+ OMA_democratic:0 "Republic of Oman"
+ OMA_democratic_DEF:0 "the Republic of Oman"
+ OMA_democratic_ADJ:0 "Oman"
+ #Communist
+ OMA_communism:0 "People's Republic of Oman"
+ OMA_communism_DEF:0 "People's Republic of Oman"
+ OMA_communism_ADJ:0 "Oman"
+ #NonAligned
+ OMA_neutrality:0 "Oman"
+ OMA_neutrality_DEF:0 "Oman"
+ OMA_neutrality_ADJ:0 "Oman"
+ #Fascist
+ OMA_fascism:0 "Omani Empire"
+ OMA_fascism_DEF:0 "the Omani Empire"
+ OMA_fascism_ADJ:0 "Oman"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
  
