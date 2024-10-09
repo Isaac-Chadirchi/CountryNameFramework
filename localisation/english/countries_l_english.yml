@@ -1396,25 +1396,25 @@ l_english:
  
  ##Independent
  #Generic
- SHORT:0 "El Salvador"
- SHORT_DEF:0 "El Salvador"
- SHORT_ADJ:0 "Salvadoran"
+ ELS:0 "El Salvador"
+ ELS_DEF:0 "El Salvador"
+ ELS_ADJ:0 "Salvadoran"
  #Democratic
- SHORT_democratic:0 "Republic of El Salvador"
- SHORT_democratic_DEF:0 "the Republic of El Salvador"
- SHORT_democratic_ADJ:0 "Salvadoran"
+ ELS_democratic:0 "Republic of El Salvador"
+ ELS_democratic_DEF:0 "the Republic of El Salvador"
+ ELS_democratic_ADJ:0 "Salvadoran"
  #Communist
- SHORT_communism:0 "Central American Socialist Republic"
- SHORT_communism_DEF:0 "the Central American Socialist Republic"
- SHORT_communism_ADJ:0 "Salvadoran"
+ ELS_communism:0 "Central American Socialist Republic"
+ ELS_communism_DEF:0 "the Central American Socialist Republic"
+ ELS_communism_ADJ:0 "Salvadoran"
  #NonAligned
- SHORT_neutrality:0 "Teocracia de El Salvador"
- SHORT_neutrality_DEF:0 "Teocracia de El Salvador"
- SHORT_neutrality_ADJ:0 "Salvadoran"
+ ELS_neutrality:0 "Teocracia de El Salvador"
+ ELS_neutrality_DEF:0 "Teocracia de El Salvador"
+ ELS_neutrality_ADJ:0 "Salvadoran"
  #Fascist
- SHORT_fascism:0 "El Salvador"
- SHORT_fascism_DEF:0 "El Salvador"
- SHORT_fascism_ADJ:0 "Salvadoran"
+ ELS_fascism:0 "El Salvador"
+ ELS_fascism_DEF:0 "El Salvador"
+ ELS_fascism_ADJ:0 "Salvadoran"
 
  ##Puppet
  #Generic
@@ -2694,6 +2694,1091 @@ l_english:
  SER_fascism:0 "Serbian Empire"
  SER_fascism_DEF:0 "Serbian Empire"
  SER_fascism_ADJ:0 "Serbian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Iceland######
+ 
+ ##Independent
+ #Generic
+ ICE:0 "Iceland"
+ ICE_DEF:0 "Iceland"
+ ICE_ADJ:0 "Icelandic"
+ #Democratic
+ ICE_democratic:0 "Iceland"
+ ICE_democratic_DEF:0 "Iceland"
+ ICE_democratic_ADJ:0 "Icelandic"
+ #Communist
+ ICE_communism:0 "Worker's Republic of Iceland"
+ ICE_communism_DEF:0 "the Worker's Republic of Iceland"
+ ICE_communism_ADJ:0 "Icelandic"
+ #NonAligned
+ ICE_neutrality:0 "Iceland"
+ ICE_neutrality_DEF:0 "Iceland"
+ ICE_neutrality_ADJ:0 "Icelandic"
+ #Fascist
+ ICE_fascism:0 "Islandsveldi"
+ ICE_fascism_DEF:0 "the Islandsveldi"
+ ICE_fascism_ADJ:0 "Icelandic"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Syria######
+ 
+ ##Independent
+ #Generic
+ SYR:0 "Syria"
+ SYR_DEF:0 "Syria"
+ SYR_ADJ:0 "Syrian"
+ #Democratic
+ SYR_democratic:0 "Syria"
+ SYR_democratic_DEF:0 "Syria"
+ SYR_democratic_ADJ:0 "Syrian"
+ #Communist
+ SYR_communism:0 "Socialist State of Syria"
+ SYR_communism_DEF:0 "the Socialist State of Syria"
+ SYR_communism_ADJ:0 "Syrian"
+ #NonAligned
+ SYR_neutrality:0 "Kingdom of Syria"
+ SYR_neutrality_DEF:0 "the Kingdom of Syria"
+ SYR_neutrality_ADJ:0 "Syrian"
+ #Fascist
+ SYR_fascism:0 "Syrian National State"
+ SYR_fascism_DEF:0 "the Syrian National State"
+ SYR_fascism_ADJ:0 "Syrian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Lebanon######
+ 
+ ##Independent
+ #Generic
+ LEB:0 "Lebanon"
+ LEB_DEF:0 "Lebanon"
+ LEB_ADJ:0 "Lebanese"
+ #Democratic
+ LEB_democratic:0 "Lebanon"
+ LEB_democratic_DEF:0 "Lebanon"
+ LEB_democratic_ADJ:0 "Lebanese"
+ #Communist
+ LEB_communism:0 "Lebanese Socialist Republic"
+ LEB_communism_DEF:0 "the Lebanese Socialist Republic"
+ LEB_communism_ADJ:0 "Lebanese"
+ #NonAligned
+ LEB_neutrality:0 "Lebanon"
+ LEB_neutrality_DEF:0 "Lebanon"
+ LEB_neutrality_ADJ:0 "Lebanese"
+ #Fascist
+ LEB_fascism:0 "Lebanon Free State"
+ LEB_fascism_DEF:0 "the Lebanon Free State"
+ LEB_fascism_ADJ:0 "Lebanese"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Jordan######
+ 
+ ##Independent
+ #Generic
+ JOR:0 "Jordan"
+ JOR_DEF:0 "Jordan"
+ JOR_ADJ:0 "Jordanian"
+ #Democratic
+ JOR_democratic:0 "Jordan"
+ JOR_democratic_DEF:0 "Jordan"
+ JOR_democratic_ADJ:0 "Jordanian"
+ #Communist
+ JOR_communism:0 "Red Jordan"
+ JOR_communism_DEF:0 "Red Jordan"
+ JOR_communism_ADJ:0 "Jordanian"
+ #NonAligned
+ JOR_neutrality:0 "Kingdom of Jordan"
+ JOR_neutrality_DEF:0 "the Kingdom of Jordan"
+ JOR_neutrality_ADJ:0 "Jordanian"
+ #Fascist
+ JOR_fascism:0 "Empire of Jordan"
+ JOR_fascism_DEF:0 "the Empire of Jordan"
+ JOR_fascism_ADJ:0 "Jordanian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Egypt######
+ 
+ ##Independent
+ #Generic
+ EGY:0 "Egypt"
+ EGY_DEF:0 "Egypt"
+ EGY_ADJ:0 "Egyptian"
+ #Democratic
+ EGY_democratic:0 "Egypt"
+ EGY_democratic_DEF:0 "Egypt"
+ EGY_democratic_ADJ:0 "Egyptian"
+ #Communist
+ EGY_communism:1 "Soviet Republic of the Nile"
+ EGY_communism_DEF:1 "the Soviet Republic of the Nile"
+ EGY_communism_ADJ:0 "Egyptian"
+ #NonAligned
+ EGY_neutrality:0 "Kingdom of Egypt"
+ EGY_neutrality_DEF:0 "the Kingdom of Egypt"
+ EGY_neutrality_ADJ:0 "Egyptian"
+ #Fascist
+ EGY_fascism:0 "Imperial Kemet"
+ EGY_fascism_DEF:0 "Imperial Kemet"
+ EGY_fascism_ADJ:0 "Egyptian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Libya######
+ 
+ ##Independent
+ #Generic
+ LBA:0 "Libya"
+ LBA_DEF:0 "Libya"
+ LBA_ADJ:0 "Libyan"
+ #Democratic
+ LBA_democratic:0 "Libyan Electorate"
+ LBA_democratic_DEF:0 "the Libyan Electorate"
+ LBA_democratic_ADJ:0 "Libyan"
+ #Communist
+ LBA_communism:0 "Libyan Socialist Republic"
+ LBA_communism_DEF:0 "the Libyan Socialist Republic"
+ LBA_communism_ADJ:0 "Libyan"
+ #NonAligned
+ LBA_neutrality:0 "Kingdom of Libya"
+ LBA_neutrality_DEF:1 "the Kingdom of Libya"
+ LBA_neutrality_ADJ:0 "Libyan"
+ #Fascist
+ LBA_fascism:0 "Africa Nova"
+ LBA_fascism_DEF:0 "Africa Nova"
+ LBA_fascism_ADJ:0 "Libyan"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######West Germany######
+ 
+ ##Independent
+ #Generic
+ WGR:0 "Germany"
+ WGR_DEF:0 "Germany"
+ WGR_ADJ:0 "West German"
+ #Democratic
+ WGR_democratic:1 "Federal Republic of Germany"
+ WGR_democratic_DEF:1 "the Federal Republic of Germany"
+ WGR_democratic_ADJ:0 "West German"
+ #Communist
+ WGR_communism:0 "Socialist Republic of Germany"
+ WGR_communism_DEF:0 "the Socialist Republic of Germany"
+ WGR_communism_ADJ:0 "West German"
+ #NonAligned
+ WGR_neutrality:0 "Bayern-Hannover"
+ WGR_neutrality_DEF:0 "Bayern-Hannover"
+ WGR_neutrality_ADJ:0 "West German"
+ #Fascist
+ WGR_fascism:0 "Fourth Reich"
+ WGR_fascism_DEF:0 "the Fourth Reich"
+ WGR_fascism_ADJ:0 "West German"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######East Germany######
+ 
+ ##Independent
+ #Generic
+ DDR:0 "Germany"
+ DDR_DEF:0 "Germany"
+ DDR_ADJ:0 "East German"
+ #Democratic
+ DDR_democratic:0 "Constitutional Germany"
+ DDR_democratic_DEF:0 "Constitutional Germany"
+ DDR_democratic_ADJ:0 "East German"
+ #Communist
+ DDR_communism:0 "German Democratic Republic"
+ DDR_communism_DEF:0 "the German Democratic Republic"
+ DDR_communism_ADJ:0 "East German"
+ #NonAligned
+ DDR_neutrality:0 "Kingdom of Prussia"
+ DDR_neutrality_DEF:0 "the Kingdom of Prussia"
+ DDR_neutrality_ADJ:0 "East German"
+ #Fascist
+ DDR_fascism:0 "DNSR"
+ DDR_fascism_DEF:0 "DNSR"
+ DDR_fascism_ADJ:0 "East German"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Palestine######
+ 
+ ##Independent
+ #Generic
+ PAL:0 "Palestine"
+ PAL_DEF:0 "Palestine"
+ PAL_ADJ:0 "Palestinian"
+ #Democratic
+ PAL_democratic:0 "Palestine"
+ PAL_democratic_DEF:0 "Palestine"
+ PAL_democratic_ADJ:0 "Palestinian"
+ #Communist
+ PAL_communism:0 "People's Socialist Palestine"
+ PAL_communism_DEF:0 "the People's Socialist Palestine"
+ PAL_communism_ADJ:0 "Palestinian"
+ #NonAligned
+ PAL_neutrality:0 "Free Mandate of Palestine"
+ PAL_neutrality_DEF:0 "the Free Mandate of Palestine"
+ PAL_neutrality_ADJ:0 "Palestinian"
+ #Fascist
+ PAL_fascism:0 "Jund Palestine"
+ PAL_fascism_DEF:0 "Jund Palestine"
+ PAL_fascism_ADJ:0 "Palestinian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Israel######
+ 
+ ##Independent
+ #Generic
+ ISR:0 "Israel"
+ ISR_DEF:0 "Israel"
+ ISR_ADJ:0 "Israeli"
+ #Democratic
+ ISR_democratic:0 "Israel"
+ ISR_democratic_DEF:0 "Israel"
+ ISR_democratic_ADJ:0 "Israeli"
+ #Communist
+ ISR_communism:1 "Levantine Union"
+ ISR_communism_DEF:0 "the Levantine Union"
+ ISR_communism_ADJ:0 "Israeli"
+ #NonAligned
+ ISR_neutrality:0 "Free State of Jerusalem"
+ ISR_neutrality_DEF:0 "the Free of Jerusalem"
+ ISR_neutrality_ADJ:0 "Jerusalemite"
+ #Fascist
+ ISR_fascism:0 "Israeli Totalitariat"
+ ISR_fascism_DEF:0 "the Israel Totalitariat"
+ ISR_fascism_ADJ:0 "Israeli"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Vietnam######
+ 
+ ##Independent
+ #Generic
+ VIN:0 "Vietnam"
+ VIN_DEF:0 "Vietnam"
+ VIN_ADJ:0 "Vietnamese"
+ #Democratic
+ VIN_democratic:0 "Republic of Vietnam"
+ VIN_democratic_DEF:0 "the Republic of Vietnam"
+ VIN_democratic_ADJ:0 "Vietnamese"
+ #Communist
+ VIN_communism:0 "Democratic Republic of Vietnam"
+ VIN_communism_DEF:0 "the Democratic Republic of Vietnam"
+ VIN_communism_ADJ:0 "Vietnamese"
+ #NonAligned
+ VIN_neutrality:0 "Republic of Vietnam"
+ VIN_neutrality_DEF:0 "the Republic of Vietnam"
+ VIN_neutrality_ADJ:0 "Vietnamese"
+ #Fascist
+ VIN_fascism:0 "Empire of Vietnam"
+ VIN_fascism_DEF:0 "the Empiure of Vietnam"
+ VIN_fascism_ADJ:0 "Vietnamese"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Cambodia######
+ 
+ ##Independent
+ #Generic
+ CAM:0 "Cambodia"
+ CAM_DEF:0 "Cambodia"
+ CAM_ADJ:0 "Cambodian"
+ #Democratic
+ CAM_democratic:0 "Republic of Cambodia"
+ CAM_democratic_DEF:0 "the Republic of Cambodia"
+ CAM_democratic_ADJ:0 "Cambodian"
+ #Communist
+ CAM_communism:1 "People's Republic of Kampuchea"
+ CAM_communism_DEF:1 "the People's Republic of Kampuchea"
+ CAM_communism_ADJ:0 "Cambodian"
+ #NonAligned
+ CAM_neutrality:0 "Republic of Cambodia"
+ CAM_neutrality_DEF:0 "the Republic of Cambodia"
+ CAM_neutrality_ADJ:0 "Cambodian"
+ #Fascist
+ CAM_fascism:0 "Imperial Khmer"
+ CAM_fascism_DEF:0 "Imperial Khmer"
+ CAM_fascism_ADJ:0 "Cambodian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Indonesia######
+ 
+ ##Independent
+ #Generic
+ INS:0 "Indonesia"
+ INS_DEF:0 "Indonesia"
+ INS_ADJ:0 "Indonesian"
+ #Democratic
+ INS_democratic:0 "Republic of Indonesia"
+ INS_democratic_DEF:0 "the Republic of Indonesia"
+ INS_democratic_ADJ:0 "Indonesian"
+ #Communist
+ INS_communism:1 "People's Republic of the Malay Archipelago"
+ INS_communism_DEF:0 "the People's Republic of the Malay Archipelago"
+ INS_communism_ADJ:0 "Malay"
+ #NonAligned
+ INS_neutrality:0 "Indonesia"
+ INS_neutrality_DEF:0 "Indonesia"
+ INS_neutrality_ADJ:0 "Indonesian"
+ #Fascist
+ INS_fascism:0 "Indonesian Order"
+ INS_fascism_DEF:0 "Indonesian Order"
+ INS_fascism_ADJ:0 "Indonesian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Malaysia######
+ 
+ ##Independent
+ #Generic
+ MAL:0 "Malaysia"
+ MAL_DEF:0 "Malaysia"
+ MAL_ADJ:0 "Malaysian"
+ #Democratic
+ MAL_democratic:0 "Republic of Malaysia"
+ MAL_democratic_DEF:0 "the Republic of Malaysia"
+ MAL_democratic_ADJ:0 "Malaysian"
+ #Communist
+ MAL_communism:0 "Malay People's Republic"
+ MAL_communism_DEF:0 "the Malay People's Republic"
+ MAL_communism_ADJ:0 "Malaysian"
+ #NonAligned
+ MAL_neutrality:0 "Republic of Malaysia"
+ MAL_neutrality_DEF:0 "the Republic of Malaysia"
+ MAL_neutrality_ADJ:0 "Malaysian"
+ #Fascist
+ MAL_fascism:0 "Malaysia"
+ MAL_fascism_DEF:0 "Malaysia"
+ MAL_fascism_ADJ:0 "Malaysian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Laos######
+ 
+ ##Independent
+ #Generic
+ LAO:0 "Laos"
+ LAO_DEF:0 "Laos"
+ LAO_ADJ:0 "Laotian"
+ #Democratic
+ LAO_democratic:0 "Republic of Laos"
+ LAO_democratic_DEF:0 "the Republic of Laos"
+ LAO_democratic_ADJ:0 "Laotian"
+ #Communist
+ LAO_communism:0 "Lao People's Democratic Republic"
+ LAO_communism_DEF:0 "the Lao People's Democratic Republic"
+ LAO_communism_ADJ:0 "Laotian"
+ #NonAligned
+ LAO_neutrality:0 "Kingdom of Laos"
+ LAO_neutrality_DEF:0 "the Kingdom of Laos"
+ LAO_neutrality_ADJ:0 "Laotian"
+ #Fascist
+ LAO_fascism:0 "Unitary Laos"
+ LAO_fascism_DEF:0 "Unitary Laos"
+ LAO_fascism_ADJ:0 "Laotian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Montenegro######
+ 
+ ##Independent
+ #Generic
+ MNT:0 "Montenegro"
+ MNT_DEF:0 "Montenegro"
+ MNT_ADJ:0 "Montenegrin"
+ #Democratic
+ MNT_democratic:0 "Republic of Montenegro"
+ MNT_democratic_DEF:0 "the Republic of Montenegro"
+ MNT_democratic_ADJ:0 "Montenegrin"
+ #Communist
+ MNT_communism:0 "Socialist Republic of Montenegro"
+ MNT_communism_DEF:0 "the Socialist Republic of Montenegro"
+ MNT_communism_ADJ:0 "Montenegrin"
+ #NonAligned
+ MNT_neutrality:0 "Montenegro"
+ MNT_neutrality_DEF:0 "Montenegro"
+ MNT_neutrality_ADJ:0 "Montenegrin"
+ #Fascist
+ MNT_fascism:0 "Independent Montenegro"
+ MNT_fascism_DEF:0 "Independent Montenegro"
+ MNT_fascism_ADJ:0 "Montenegrin"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Ukraine######
+ 
+ ##Independent
+ #Generic
+ UKR:0 "Ukraine"
+ UKR_DEF:0 "Ukraine"
+ UKR_ADJ:0 "Ukrainian"
+ #Democratic
+ UKR_democratic:0 "Republic of Ukraine"
+ UKR_democratic_DEF:0 "the Republic of Ukraine"
+ UKR_democratic_ADJ:0 "Ukrainian"
+ #Communist
+ UKR_communism:1 "Ukrainian Socialist Republic"
+ UKR_communism_DEF:0 "the Ukrainian Socialist Republic"
+ UKR_communism_ADJ:0 "Ukrainian"
+ #NonAligned
+ UKR_neutrality:0 "Ukraine"
+ UKR_neutrality_DEF:0 "Ukraine"
+ UKR_neutrality_ADJ:0 "Ukrainian"
+ #Fascist
+ UKR_fascism:0 "Ukraine"
+ UKR_fascism_DEF:0 "Ukraine"
+ UKR_fascism_ADJ:0 "Ukrainian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Georgia######
+ 
+ ##Independent
+ #Generic
+ GEO:0 "Georgia"
+ GEO_DEF:0 "Georgia"
+ GEO_ADJ:0 "Georgian"
+ #Democratic
+ GEO_democratic:0 "Republic of Georgia"
+ GEO_democratic_DEF:0 "the Republic of Georgia"
+ GEO_democratic_ADJ:0 "Georgian"
+ #Communist
+ GEO_communism:1 "Georgian Socialist Republic"
+ GEO_communism_DEF:0 "the Georgian Socialist Republic"
+ GEO_communism_ADJ:0 "Georgian"
+ #NonAligned
+ GEO_neutrality:0 "Free State of St. Georgia"
+ GEO_neutrality_DEF:0 "the Free State of St. Georgia"
+ GEO_neutrality_ADJ:0 "Georgian"
+ #Fascist
+ GEO_fascism:0 "Caucasus Authority"
+ GEO_fascism_DEF:0 "Caucasus Authority"
+ GEO_fascism_ADJ:0 "Georgian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Kazakhstan######
+ 
+ ##Independent
+ #Generic
+ KAZ:0 "Kazakhstan"
+ KAZ_DEF:0 "Kazakhstan"
+ KAZ_ADJ:0 "Kazakh"
+ #Democratic
+ KAZ_democratic:1 "Kazakhstan"
+ KAZ_democratic_DEF:1 "Kazakhstan"
+ KAZ_democratic_ADJ:0 "Kazakh"
+ #Communist
+ KAZ_communism:2 "Kazakh Soviet Socialist Republic"
+ KAZ_communism_DEF:2 "the Kazakh Soviet Socialist Republic"
+ KAZ_communism_ADJ:0 "Kazakh"
+ #NonAligned
+ KAZ_neutrality:1 "Kazakh Khanate"
+ KAZ_neutrality_DEF:1 "the Kazakh Khanate"
+ KAZ_neutrality_ADJ:0 "Kazakh"
+ #Fascist
+ KAZ_fascism:1 "Alash Orda"
+ KAZ_fascism_DEF:1 "Alash Orda"
+ KAZ_fascism_ADJ:0 "Kazakh"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Azerbaijan######
+ 
+ ##Independent
+ #Generic
+ AZR:0 "Azerbaijan"
+ AZR_DEF:0 "Azerbaijan"
+ AZR_ADJ:0 "Azerbaijani"
+ #Democratic
+ AZR_democratic:0 "Azerbaijan Democratic Republic"
+ AZR_democratic_DEF:0 "the Azerbaijan Democratic Republic"
+ AZR_democratic_ADJ:0 "Azerbaijani"
+ #Communist
+ AZR_communism:1 "Azerbaijan Socialist Republic"
+ AZR_communism_DEF:1 "the Azerbaijan Socialist Republic"
+ AZR_communism_ADJ:0 "Azerbaijani"
+ #NonAligned
+ AZR_neutrality:0 "Islamic Republic of Azerbaijan"
+ AZR_neutrality_DEF:0 "Islamic Republic of Azerbaijan"
+ AZR_neutrality_ADJ:0 "Azerbaijani"
+ #Fascist
+ AZR_fascism:0 "Empire of Fire"
+ AZR_fascism_DEF:0 "the Empire of Fire"
+ AZR_fascism_ADJ:0 "Azerbaijani"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Armenia######
+ 
+ ##Independent
+ #Generic
+ ARM:0 "Armenia"
+ ARM_DEF:0 "Armenia"
+ ARM_ADJ:0 "Armenian"
+ #Democratic
+ ARM_democratic:0 "Republic of Armenia"
+ ARM_democratic_DEF:0 "the Republic of Armenia"
+ ARM_democratic_ADJ:0 "Armenian"
+ #Communist
+ ARM_communism:1 "Armenian Socialist Republic"
+ ARM_communism_DEF:1 "the Armenian Socialist Republic"
+ ARM_communism_ADJ:0 "Armenian"
+ #NonAligned
+ ARM_neutrality:0 "Armenian Independent Territories"
+ ARM_neutrality_DEF:0 "the Armenian Independent Territories"
+ ARM_neutrality_ADJ:0 "Armenian"
+ #Fascist
+ ARM_fascism:0 "Greater Armenia"
+ ARM_fascism_DEF:0 "Greater Armenia"
+ ARM_fascism_ADJ:0 "Armenian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Belarus######
+ 
+ ##Independent
+ #Generic
+ BLR:0 "Belarus"
+ BLR_DEF:0 "Belarus"
+ BLR_ADJ:0 "Belarusian"
+ #Democratic
+ BLR_democratic:0 "Republic of Belarus"
+ BLR_democratic_DEF:0 "the Republic of Belarus"
+ BLR_democratic_ADJ:0 "Belarusian"
+ #Communist
+ BLR_communism:1 "Belarusian Socialist Republic"
+ BLR_communism_DEF:0 "the Belarusian Socialist Republic"
+ BLR_communism_ADJ:0 "Belarusian"
+ #NonAligned
+ BLR_neutrality:0 "Belarus"
+ BLR_neutrality_DEF:0 "Belarus"
+ BLR_neutrality_ADJ:0 "Belarusian"
+ #Fascist
+ BLR_fascism:0 "Nationalist Belarus"
+ BLR_fascism_DEF:0 "Nationalist Belarus"
+ BLR_fascism_ADJ:0 "Belarusian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Angola######
+ 
+ ##Independent
+ #Generic
+ ANG:0 "Angola"
+ ANG_DEF:0 "Angola"
+ ANG_ADJ:0 "Angolan"
+ #Democratic
+ ANG_democratic:0 "Republic of Angola"
+ ANG_democratic_DEF:0 "the Republic of Angola"
+ ANG_democratic_ADJ:0 "Angolan"
+ #Communist
+ ANG_communism:1 "Democratic People's Republic of Angola"
+ ANG_communism_DEF:0 "Democratic People's Republic of Angola"
+ ANG_communism_ADJ:0 "Angolan"
+ #NonAligned
+ ANG_neutrality:0 "Angola"
+ ANG_neutrality_DEF:0 "Angola"
+ ANG_neutrality_ADJ:0 "Angolan"
+ #Fascist
+ ANG_fascism:2 "Angolan Empire"
+ ANG_fascism_DEF:2 "the Angolan Empire"
+ ANG_fascism_ADJ:0 "Angolan"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Mozambique######
+ 
+ ##Independent
+ #Generic
+ MZB:0 "Mozambique"
+ MZB_DEF:0 "Mozambique"
+ MZB_ADJ:0 "Mozambican"
+ #Democratic
+ MZB_democratic:0 "Republic of Mozambique"
+ MZB_democratic_DEF:0 "the Republic of Mozambique"
+ MZB_democratic_ADJ:0 "Mozambican"
+ #Communist
+ MZB_communism:1 "People's Republic of Mozambique"
+ MZB_communism_DEF:0 "the People's Republic of Mozambique"
+ MZB_communism_ADJ:0 "Mozambican"
+ #NonAligned
+ MZB_neutrality:0 "Mozambique"
+ MZB_neutrality_DEF:0 "Mozambique"
+ MZB_neutrality_ADJ:0 "Mozambican"
+ #Fascist
+ MZB_fascism:2 "Great Mozambique"
+ MZB_fascism_DEF:2 "Great Mozambique"
+ MZB_fascism_ADJ:0 "Mozambican"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Zimbabwe######
+ 
+ ##Independent
+ #Generic
+ ZIM:0 "Zimbabwe"
+ ZIM_DEF:0 "Zimbabwe"
+ ZIM_ADJ:0 "Zimbabwean"
+ #Democratic
+ ZIM_democratic:0 "Republic of Zimbabwe"
+ ZIM_democratic_DEF:0 "Republic of Zimbabwe"
+ ZIM_democratic_ADJ:0 "Zimbabwean"
+ #Communist
+ ZIM_communism:1 "Zimbabwean Democratic Republic"
+ ZIM_communism_DEF:0 "the Zimbabwean Democratic Republic"
+ ZIM_communism_ADJ:0 "Zimbabwean"
+ #NonAligned
+ ZIM_neutrality:0 "Zimbabwe"
+ ZIM_neutrality_DEF:0 "Zimbabwe"
+ ZIM_neutrality_ADJ:0 "Zimbabwean"
+ #Fascist
+ ZIM_fascism:0 "Rhodesia"
+ ZIM_fascism_DEF:0 "Rhodesia"
+ ZIM_fascism_ADJ:0 "Zimbabwean"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Zaire######
+ 
+ ##Independent
+ #Generic
+ SHORT:0 "Zaire"
+ SHORT_DEF:0 "Zaire"
+ SHORT_ADJ:0 "Zairian"
+ #Democratic
+ SHORT_democratic:1 "Republic of the East Congo"
+ SHORT_democratic_DEF:0 "the Republic of the East Congo"
+ SHORT_democratic_ADJ:0 "Congolese"
+ #Communist
+ SHORT_communism:1 "Democratic Republic of the Congo"
+ SHORT_communism_DEF:0 "Democratic Republic of the Congo"
+ SHORT_communism_ADJ:0 "Congolese"
+ #NonAligned
+ SHORT_neutrality:0 "Zaire"
+ SHORT_neutrality_DEF:0 "Zaire"
+ SHORT_neutrality_ADJ:0 "Zairian"
+ #Fascist
+ SHORT_fascism:2 "Central African Empire"
+ SHORT_fascism_DEF:3 "the Central African Empire"
+ SHORT_fascism_ADJ:0 "Congolese"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Kenya######
+ 
+ ##Independent
+ #Generic
+ KEN:0 "Kenya"
+ KEN_DEF:0 "Kenya"
+ KEN_ADJ:0 "Kenyan"
+ #Democratic
+ KEN_democratic:0 "Republic of Kenya"
+ KEN_democratic_DEF:0 "the Republic of Kenya"
+ KEN_democratic_ADJ:0 "Kenyan"
+ #Communist
+ KEN_communism:1 "People's Republic of Kenya"
+ KEN_communism_DEF:0 "the People's Republic of Kenya"
+ KEN_communism_ADJ:0 "Kenyan"
+ #NonAligned
+ KEN_neutrality:0 "Kenya"
+ KEN_neutrality_DEF:0 "Kenya"
+ KEN_neutrality_ADJ:0 "Kenyan"
+ #Fascist
+ KEN_fascism:2 "Greater Kenyan Empire"
+ KEN_fascism_DEF:2 "Greater Kenyan Empire"
+ KEN_fascism_ADJ:0 "Kenyan"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Pakistan######
+ 
+ ##Independent
+ #Generic
+ PAK:0 "Pakistan"
+ PAK_DEF:0 "Pakistan"
+ PAK_ADJ:0 "Pakistani"
+ #Democratic
+ PAK_democratic:0 "Republic of Pakistan"
+ PAK_democratic_DEF:0 "the Republic of Pakistan"
+ PAK_democratic_ADJ:0 "Pakistani"
+ #Communist
+ PAK_communism:1 "People's Republic of Pakistan"
+ PAK_communism_DEF:0 "the People's Republic of Pakistan"
+ PAK_communism_ADJ:0 "Pakistani"
+ #NonAligned
+ PAK_neutrality:0 "Pakistan"
+ PAK_neutrality_DEF:0 "Pakistan"
+ PAK_neutrality_ADJ:0 "Pakistani"
+ #Fascist
+ PAK_fascism:0 "New Mughal Empire"
+ PAK_fascism_DEF:0 "the New Mughal Empire"
+ PAK_fascism_ADJ:0 "Pakistani"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Botswana######
+ 
+ ##Independent
+ #Generic
+ BOT:0 "Botswana"
+ BOT_DEF:0 "Botswana"
+ BOT_ADJ:0 "Batswana"
+ #Democratic
+ BOT_democratic:0 "Republic of Botswana"
+ BOT_democratic_DEF:0 "the Republic of Botswana"
+ BOT_democratic_ADJ:0 "Batswana"
+ #Communist
+ BOT_communism:1 "Union of the Batswana People"
+ BOT_communism_DEF:0 "the Union of the Batswana People"
+ BOT_communism_ADJ:0 "Batswana"
+ #NonAligned
+ BOT_neutrality:0 "Botswana"
+ BOT_neutrality_DEF:0 "Botswana"
+ BOT_neutrality_ADJ:0 "Batswana"
+ #Fascist
+ BOT_fascism:2 "Greater Botswana"
+ BOT_fascism_DEF:2 "Greater Botswana"
+ BOT_fascism_ADJ:0 "Batswana"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Manchukuo######
+ 
+ ##Independent
+ #Generic
+ MAN:0 "Manchukuo"
+ MAN_DEF:0 "Manchukuo"
+ MAN_ADJ:0 "Manchu"
+ #Democratic
+ MAN_democratic:0 "Manchu Republic"
+ MAN_democratic_DEF:0 "the Manchu Republic"
+ MAN_democratic_ADJ:0 "Manchu"
+ #Communist
+ MAN_communism:2 "Free Democratic People's Republic of Manchukuo"
+ MAN_communism_DEF:1 "the Free Democratic People's Republic of Manchukuo"
+ MAN_communism_ADJ:0 "Manchu"
+ #NonAligned
+ MAN_neutrality:1 "Qing China"
+ MAN_neutrality_DEF:1 "Qing China"
+ MAN_neutrality_ADJ:0 "Manchu"
+ #Fascist
+ MAN_fascism:1 "Qing China"
+ MAN_fascism_DEF:1 "Qing China"
+ MAN_fascism_ADJ:0 "Manchu"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Bahamas######
+ 
+ ##Independent
+ #Generic
+ BAH:0 "Bahamas"
+ BAH_DEF:0 "Bahamas"
+ BAH_ADJ:0 "Bahamian"
+ #Democratic
+ BAH_democratic:1 "Commonwealth of The Bahamas"
+ BAH_democratic_DEF:0 "the Commonwealth of The Bahamas"
+ BAH_democratic_ADJ:0 "Bahamian"
+ #Communist
+ BAH_communism:1 "Bahamian Commune"
+ BAH_communism_DEF:1 "the Bahamian Commune"
+ BAH_communism_ADJ:0 "Bahamian"
+ #NonAligned
+ BAH_neutrality:0 "Bahamas"
+ BAH_neutrality_DEF:0 "Bahamas"
+ BAH_neutrality_ADJ:0 "Bahamian"
+ #Fascist
+ BAH_fascism:1 "Bahamas Unitary State"
+ BAH_fascism_DEF:1 "Bahamas Unitary State"
+ BAH_fascism_ADJ:0 "Bahamian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Belize######
+ 
+ ##Independent
+ #Generic
+ BLZ:0 "Belize"
+ BLZ_DEF:0 "Belize"
+ BLZ_ADJ:0 "Belizean"
+ #Democratic
+ BLZ_democratic:0 "Belize"
+ BLZ_democratic_DEF:0 "Belize"
+ BLZ_democratic_ADJ:0 "Belizean"
+ #Communist
+ BLZ_communism:1 "Popular Union of Belize"
+ BLZ_communism_DEF:1 "the Popular Union of Belize"
+ BLZ_communism_ADJ:0 "Belizean"
+ #NonAligned
+ BLZ_neutrality:1 "Republic of Belize"
+ BLZ_neutrality_DEF:1 "the Republic of Belize"
+ BLZ_neutrality_ADJ:0 "Belizean"
+ #Fascist
+ BLZ_fascism:1 "State of Belize"
+ BLZ_fascism_DEF:1 "the State of Belize"
+ BLZ_fascism_ADJ:0 "Belizean"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Myanmar######
+ 
+ ##Independent
+ #Generic
+ BRM:0 "Burma"
+ BRM_DEF:0 "Burma"
+ BRM_ADJ:0 "Burmese"
+ #Democratic
+ BRM_democratic:0 "Burma"
+ BRM_democratic_DEF:0 "Burma"
+ BRM_democratic_ADJ:1 "Burmese"
+ #Communist
+ BRM_communism:1 "Socialist Republic of the Union of Burma"
+ BRM_communism_DEF:1 "the Socialist Republic of the Union of Burma"
+ BRM_communism_ADJ:01"Burmese"
+ #NonAligned
+ BRM_neutrality:1 "Myanmar"
+ BRM_neutrality_DEF:1 "Myanmar"
+ BRM_neutrality_ADJ:1 "Myanma"
+ #Fascist
+ BRM_fascism:1 "State of Burma"
+ BRM_fascism_DEF:1 "the State of Burma"
+ BRM_fascism_ADJ:1 "Burmese"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Antilles######
+ 
+ ##Independent
+ #Generic
+ CRC:0 "Antilles"
+ CRC_DEF:0 "Antilles"
+ CRC_ADJ:0 "Antillean"
+ #Democratic
+ CRC_democratic:2 "Netherlands Antilles"
+ CRC_democratic_DEF:2 "the Netherlands Antilles"
+ CRC_democratic_ADJ:2 "Antillean"
+ #Communist
+ CRC_communism:1 "Curative People's Republic"
+ CRC_communism_DEF:1 "the Curative People's Republic"
+ CRC_communism_ADJ:1 "Curaçaoan"
+ #NonAligned
+ CRC_neutrality:3 "ABC Antilles"
+ CRC_neutrality_DEF:3 "ABC Antilles"
+ CRC_neutrality_ADJ:3 "Antillean"
+ #Fascist
+ CRC_fascism:1 "Empire of the Dutch Antilles"
+ CRC_fascism_DEF:1 "the Empire of the Dutch Antilles"
+ CRC_fascism_ADJ:1 "Antillean"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Guadeloupe######
+ 
+ ##Independent
+ #Generic
+ GDL:0 "Guadeloupe"
+ GDL_DEF:0 "Guadeloupe"
+ GDL_ADJ:0 "Guadeloupean"
+ #Democratic
+ GDL_democratic:1 "Republic of Guadeloupe"
+ GDL_democratic_DEF:1 "the Republic of Guadeloupe"
+ GDL_democratic_ADJ:0 "Guadeloupean"
+ #Communist
+ GDL_communism:1 "Guadeloupean Commune"
+ GDL_communism_DEF:1 "Guadeloupean Commune"
+ GDL_communism_ADJ:1 "Guadeloupean"
+ #NonAligned
+ GDL_neutrality:0 "Guadeloupe"
+ GDL_neutrality_DEF:0 "Guadeloupe"
+ GDL_neutrality_ADJ:0 "Guadeloupean"
+ #Fascist
+ GDL_fascism:1 "Karukera Empire"
+ GDL_fascism_DEF:1 "the Karukera Empire"
+ GDL_fascism_ADJ:1 "Karykeran"
 
  ##Puppet
  #Generic
