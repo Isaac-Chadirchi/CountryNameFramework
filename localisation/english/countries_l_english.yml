@@ -3481,25 +3481,25 @@ l_english:
  
  ##Independent
  #Generic
- SHORT:0 "Zaire"
- SHORT_DEF:0 "Zaire"
- SHORT_ADJ:0 "Zairian"
+ COG:0 "Zaire"
+ COG_DEF:0 "Zaire"
+ COG_ADJ:0 "Zairian"
  #Democratic
- SHORT_democratic:1 "Republic of the East Congo"
- SHORT_democratic_DEF:0 "the Republic of the East Congo"
- SHORT_democratic_ADJ:0 "Congolese"
+ COG_democratic:1 "Republic of the East Congo"
+ COG_democratic_DEF:0 "the Republic of the East Congo"
+ COG_democratic_ADJ:0 "Congolese"
  #Communist
- SHORT_communism:1 "Democratic Republic of the Congo"
- SHORT_communism_DEF:0 "Democratic Republic of the Congo"
- SHORT_communism_ADJ:0 "Congolese"
+ COG_communism:1 "Democratic Republic of the Congo"
+ COG_communism_DEF:0 "Democratic Republic of the Congo"
+ COG_communism_ADJ:0 "Congolese"
  #NonAligned
- SHORT_neutrality:0 "Zaire"
- SHORT_neutrality_DEF:0 "Zaire"
- SHORT_neutrality_ADJ:0 "Zairian"
+ COG_neutrality:0 "Zaire"
+ COG_neutrality_DEF:0 "Zaire"
+ COG_neutrality_ADJ:0 "Zairian"
  #Fascist
- SHORT_fascism:2 "Central African Empire"
- SHORT_fascism_DEF:3 "the Central African Empire"
- SHORT_fascism_ADJ:0 "Congolese"
+ COG_fascism:2 "Central African Empire"
+ COG_fascism_DEF:3 "the Central African Empire"
+ COG_fascism_ADJ:0 "Congolese"
 
  ##Puppet
  #Generic
@@ -4101,25 +4101,490 @@ l_english:
  
  ##Independent
  #Generic
- SHORT:0 "Suirname"
- SHORT_DEF:0 "Suirname"
- SHORT_ADJ:0 "Suirnamese"
+ SUR:0 "Suirname"
+ SUR_DEF:0 "Suirname"
+ SUR_ADJ:0 "Suirnamese"
  #Democratic
- SHORT_democratic:1 "Republic of Suirname"
- SHORT_democratic_DEF:1 "the Republic of Suirname"
- SHORT_democratic_ADJ:0 "Suirnamese"
+ SUR_democratic:1 "Republic of Suirname"
+ SUR_democratic_DEF:1 "the Republic of Suirname"
+ SUR_democratic_ADJ:0 "Suirnamese"
  #Communist
- SHORT_communism:1 "Suirnen Democratic Republic"
- SHORT_communism_DEF:1 "Suirnen Democratic Republic"
- SHORT_communism_ADJ:1 "Suirnen"
+ SUR_communism:1 "Suirnen Democratic Republic"
+ SUR_communism_DEF:1 "Suirnen Democratic Republic"
+ SUR_communism_ADJ:1 "Suirnen"
  #NonAligned
- SHORT_neutrality:0 "Suirname"
- SHORT_neutrality_DEF:0 "Suirname"
- SHORT_neutrality_ADJ:0 "Suirnamese"
+ SUR_neutrality:0 "Suirname"
+ SUR_neutrality_DEF:0 "Suirname"
+ SUR_neutrality_ADJ:0 "Suirnamese"
  #Fascist
- SHORT_fascism:1 "Suirnam Unitary State"
- SHORT_fascism_DEF:1 "the Suirnam Unitary State"
- SHORT_fascism_ADJ:1 "Suirnen"
+ SUR_fascism:1 "Suirnam Unitary State"
+ SUR_fascism_DEF:1 "the Suirnam Unitary State"
+ SUR_fascism_ADJ:1 "Suirnen"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Tajikistan######
+ 
+ ##Independent
+ #Generic
+ TAJ:0 "Tajikistan"
+ TAJ_DEF:0 "Tajikistan"
+ TAJ_ADJ:0 "Tajik"
+ #Democratic
+ TAJ_democratic:1 "Republic of Tajikistan"
+ TAJ_democratic_DEF:1 "the Republic of Tajikistan"
+ TAJ_democratic_ADJ:0 "Tajik"
+ #Communist
+ TAJ_communism:1 "Tajik Soviet Republic"
+ TAJ_communism_DEF:1 "the Tajik Soviet Republic"
+ TAJ_communism_ADJ:0 "Tajik"
+ #NonAligned
+ TAJ_neutrality:0 "Tajikistan"
+ TAJ_neutrality_DEF:0 "Tajikistan"
+ TAJ_neutrality_ADJ:0 "Tajik"
+ #Fascist
+ TAJ_fascism:1 "Bekstvo of Matcha"
+ TAJ_fascism_DEF:1 "the Bekstvo of Matcha"
+ TAJ_fascism_ADJ:0 "Tajik"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Trinidad and Tobago######
+ 
+ ##Independent
+ #Generic
+ TRI:0 "Trinidad and Tobago"
+ TRI_DEF:0 "Trinidad and Tobago"
+ TRI_ADJ:0 "Trinidadian and Tobagonian"
+ #Democratic
+ TRI_democratic:1 "Republic of Trinidad and Tobago"
+ TRI_democratic_DEF:1 "the Republic of Trinidad and Tobago"
+ TRI_democratic_ADJ:0 "Trinidadian and Tobagonian"
+ #Communist
+ TRI_communism:1 "Amerindian People's Republic"
+ TRI_communism_DEF:1 "the Amerindian People's Republic"
+ TRI_communism_ADJ:1 "Amerindian"
+ #NonAligned
+ TRI_neutrality:0 "Trinidad and Tobago"
+ TRI_neutrality_DEF:0 "Trinidad and Tobago"
+ TRI_neutrality_ADJ:0 "Trinidadian and Tobagonian"
+ #Fascist
+ TRI_fascism:1 "Empire of Cairi"
+ TRI_fascism_DEF:1 "the Empire of Cairi"
+ TRI_fascism_ADJ:1 "Cairi"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Turkmenistan######
+ 
+ ##Independent
+ #Generic
+ TMS:0 "Turkmenistan"
+ TMS_DEF:0 "Turkmenistan"
+ TMS_ADJ:0 "Turkmen"
+ #Democratic
+ TMS_democratic:1 "Republic of Turkmenistan"
+ TMS_democratic_DEF:1 "the Republic of Turkmenistan"
+ TMS_democratic_ADJ:0 "Turkmen"
+ #Communist
+ TMS_communism:1 "Turkestan Autonomous Soviet Socialist Republic"
+ TMS_communism_DEF:1 "the Turkestan Autonomous Soviet Socialist Republic"
+ TMS_communism_ADJ:1 "Turkestan"
+ #NonAligned
+ TMS_neutrality:0 "Turkmenistan"
+ TMS_neutrality_DEF:0 "Turkmenistan"
+ TMS_neutrality_ADJ:0 "Turkmen"
+ #Fascist
+ TMS_fascism:0 "Neo-Seljuk Empire"
+ TMS_fascism_DEF:0 "the Neo-Seljuk Empire"
+ TMS_fascism_ADJ:0 "Turkmen"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Arab Emirates######
+ 
+ ##Independent
+ #Generic
+ UAE:0 "Arab Emirates"
+ UAE_DEF:0 "Arab Emirates"
+ UAE_ADJ:0 "Emirati"
+ #Democratic
+ UAE_democratic:1 "Trucial States"
+ UAE_democratic_DEF:1 "the Trucial States"
+ UAE_democratic_ADJ:1 "Trucial"
+ #Communist
+ UAE_communism:1 "People's Arab Union"
+ UAE_communism_DEF:1 "the People's Arab Union"
+ UAE_communism_ADJ:1 "Arab"
+ #NonAligned
+ UAE_neutrality:0 "United Arab Emirates"
+ UAE_neutrality_DEF:0 "the United Arab Emirates"
+ UAE_neutrality_ADJ:0 "Emirati"
+ #Fascist
+ UAE_fascism:1 "Arab Emirate"
+ UAE_fascism_DEF:1 "the Arab Emirate"
+ UAE_fascism_ADJ:1 "Emirati"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Uzbekistan######
+ 
+ ##Independent
+ #Generic
+ UZB:0 "Uzbekistan"
+ UZB_DEF:0 "Uzbekistan"
+ UZB_ADJ:0 "Uzbek"
+ #Democratic
+ UZB_democratic:1 "Republic of Uzbekistan"
+ UZB_democratic_DEF:1 "the Republic of Uzbekistan"
+ UZB_democratic_ADJ:0 "Uzbek"
+ #Communist
+ UZB_communism:1 "Uzbek Soviet Socialist Republic"
+ UZB_communism_DEF:1 "the Uzbek Soviet Socialist Republic"
+ UZB_communism_ADJ:0 "Uzbek"
+ #NonAligned
+ UZB_neutrality:0 "Uzbekistan"
+ UZB_neutrality_DEF:0 "Uzbekistan"
+ UZB_neutrality_ADJ:0 "Uzbek"
+ #Fascist
+ UZB_fascism:0 "Uzbek Khanate"
+ UZB_fascism_DEF:0 "the Uzbek Khanate" #Changed from Bukhara due to Bukhara being added to the game
+ UZB_fascism_ADJ:0 "Uzbek"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Kuwait######
+ 
+ ##Independent
+ #Generic
+ KUW:0 "Kuwait"
+ KUW_DEF:0 "Kuwait"
+ KUW_ADJ:0 "Kuwaiti"
+ #Democratic
+ KUW_democratic:0 "Kuwait"
+ KUW_democratic_DEF:0 "Kuwait"
+ KUW_democratic_ADJ:0 "Kuwaiti"
+ #Communist
+ KUW_communism:1 "People's Republic of Kuwait"
+ KUW_communism_DEF:1 "the People's Republic of Kuwait"
+ KUW_communism_ADJ:0 "Kuwaiti"
+ #NonAligned
+ KUW_neutrality:1 "Kingdom of Kuwait"
+ KUW_neutrality_DEF:1 "the Kingdom of Kuwait"
+ KUW_neutrality_ADJ:0 "Kuwaiti"
+ #Fascist
+ KUW_fascism:1 "Dictatorial Kuwait"
+ KUW_fascism_DEF:1 "Dictatorial Kuwait"
+ KUW_fascism_ADJ:0 "Kuwaiti"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######COUNTRY######
+ 
+ ##Independent
+ #Generic
+ CSA:0 "Confederation of America"
+ CSA_DEF:0 "the Confederation of America"
+ CSA_ADJ:0 "Confederate"
+ #Democratic
+ CSA_democratic:0 "Confederacy of American States"
+ CSA_democratic_DEF:0 "the Confederacy of America States"
+ CSA_democratic_ADJ:0 "Confederate"
+ #Communist
+ CSA_communism:0 "Confederacy of American Workers"
+ CSA_communism_DEF:0 "the Confederacy of American Worker"
+ CSA_communism_ADJ:0 "Confederate"
+ #NonAligned
+ CSA_neutrality:0 "Confederation of America"
+ CSA_neutrality_DEF:0 "the Confederation of America"
+ CSA_neutrality_ADJ:0 "Confederate"
+ #Fascist
+ CSA_fascism:0 "Confederated States of America"
+ CSA_fascism_DEF:0 "the Confederated States of America"
+ CSA_fascism_ADJ:0 "Confederate"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Unaligned States of America######
+ 
+ ##Independent
+ #Generic
+ USB:0 "Unaligned States of America"
+ USB_DEF:0 "the Unaligned States of America"
+ USB_ADJ:0 "American"
+ #Democratic
+ USB_democratic:0 "Unaligned States of America"
+ USB_democratic_DEF:0 "the Unaligned States of America"
+ USB_democratic_ADJ:0 "American"
+ #Communist
+ USB_communism:0 "Unaligned States of America"
+ USB_communism_DEF:0 "the Unaligned States of America"
+ USB_communism_ADJ:0 "American"
+ #NonAligned
+ USB_neutrality:0 "Unaligned States of America"
+ USB_neutrality_DEF:0 "the Unaligned States of America"
+ USB_neutrality_ADJ:0 "American"
+ #Fascist
+ USB_fascism:0 "Unaligned States of America"
+ USB_fascism_DEF:0 "the Unaligned States of America"
+ USB_fascism_ADJ:0 "American"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Cyprus######
+ 
+ ##Independent
+ #Generic
+ CYP:0 "Cyprus"
+ CYP_DEF:0 "Cyprus"
+ CYP_ADJ:0 "Cypriot"
+ #Democratic
+ CYP_democratic:1 "Republic of Cyprus"
+ CYP_democratic_DEF:1 "the Republic of Cyprus"
+ CYP_democratic_ADJ:0 "Cypriot"
+ #Communist
+ CYP_communism:1 "Cypriot Democratic People's Republic"
+ CYP_communism_DEF:1 "the Cypriot Democratic People's Republic"
+ CYP_communism_ADJ:0 "Cypriot"
+ #NonAligned
+ CYP_neutrality:0 "Cyprus"
+ CYP_neutrality_DEF:0 "Cyprus"
+ CYP_neutrality_ADJ:0 "Cypriot"
+ #Fascist
+ CYP_fascism:1 "Cypriot Empire"
+ CYP_fascism_DEF:1 "Cypriot Empire"
+ CYP_fascism_ADJ:0 "Cypriot"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Malta######
+ 
+ ##Independent
+ #Generic
+ MLT:0 "Malta"
+ MLT_DEF:0 "Malta"
+ MLT_ADJ:0 "Maltese"
+ #Democratic
+ MLT_democratic:0 "Malta"
+ MLT_democratic_DEF:0 "Malta"
+ MLT_democratic_ADJ:0 "Maltese"
+ #Communist
+ MLT_communism:1 "Malta Commune"
+ MLT_communism_DEF:1 "the Malta Commune"
+ MLT_communism_ADJ:0 "Maltese"
+ #NonAligned
+ MLT_neutrality:0 "Sovereign Military Order of Malta"
+ MLT_neutrality_DEF:0 "the Sovereign Military Order of Malta"
+ MLT_neutrality_ADJ:0 "Maltese"
+ #Fascist
+ MLT_fascism:2 "Tenth Crusade"
+ MLT_fascism_DEF:2"the Tenth Crusade"
+ MLT_fascism_ADJ:0 "Maltese"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Algeria######
+ 
+ ##Independent
+ #Generic
+ ALG:0 "Algeria"
+ ALG_DEF:0 "Algeria"
+ ALG_ADJ:0 "Algerian"
+ #Democratic
+ ALG_democratic:1 "Republic of Algeria"
+ ALG_democratic_DEF:1 "the Republic of Algeria"
+ ALG_democratic_ADJ:0 "Algerian"
+ #Communist
+ ALG_communism:1 "Commune of Algeria"
+ ALG_communism_DEF:1 "the Commune of Algeria"
+ ALG_communism_ADJ:0 "Algerian"
+ #NonAligned
+ ALG_neutrality:0 "Algeria"
+ ALG_neutrality_DEF:0 "Algeria"
+ ALG_neutrality_ADJ:0 "Algerian"
+ #Fascist
+ ALG_fascism:1 "Algerian Caliphate"
+ ALG_fascism_DEF:1 "the Algerian Caliphate"
+ ALG_fascism_ADJ:0 "Algerian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Morocco######
+ 
+ ##Independent
+ #Generic
+ MOR:0 "Morocco"
+ MOR_DEF:0 "Morocco"
+ MOR_ADJ:0 "Moroccan"
+ #Democratic
+ MOR_democratic:0 "Morocco"
+ MOR_democratic_DEF:0 "Morocco"
+ MOR_democratic_ADJ:0 "Moroccan"
+ #Communist
+ MOR_communism:1 "Moroccan People's Republic"
+ MOR_communism_DEF:1 "the Moroccan People's Republic"
+ MOR_communism_ADJ:0 "Moroccan"
+ #NonAligned
+ MOR_neutrality:1 "Kingdom of Morocco"
+ MOR_neutrality_DEF:1 "the Kingdom of Morocco"
+ MOR_neutrality_ADJ:0 "Moroccan"
+ #Fascist
+ MOR_fascism:1 "Maghreb Empire"
+ MOR_fascism_DEF:1 "the Maghreb Empire"
+ MOR_fascism_ADJ:1 "Maghreb"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Tunisia######
+ 
+ ##Independent
+ #Generic
+ TUN:0 "Tunisia"
+ TUN_DEF:0 "Tunisia"
+ TUN_ADJ:0 "Tunisian"
+ #Democratic
+ TUN_democratic:1 "Republic of Tunisia"
+ TUN_democratic_DEF:1 "the Republic of Tunisia"
+ TUN_democratic_ADJ:0 "Tunisian"
+ #Communist
+ TUN_communism:1 "Communist State of Tunisia"
+ TUN_communism_DEF:1 "the Communist State of Tunisia"
+ TUN_communism_ADJ:0 "Tunisian"
+ #NonAligned
+ TUN_neutrality:0 "Tunisia"
+ TUN_neutrality_DEF:0 "Tunisia"
+ TUN_neutrality_ADJ:0 "Tunisian"
+ #Fascist
+ TUN_fascism:1 "Barbary Tunis"
+ TUN_fascism_DEF:1 "Barbary Tunis"
+ TUN_fascism_ADJ:1 "Barbary"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Sudan######
+ 
+ ##Independent
+ #Generic
+ SUD:0 "Sudan"
+ SUD_DEF:0 "Sudan"
+ SUD_ADJ:0 "Sudanese"
+ #Democratic
+ SUD_democratic:1 "Republic of the Sudan"
+ SUD_democratic_DEF:0 "the Republic of the Sudan"
+ SUD_democratic_ADJ:0 "Sudanese"
+ #Communist
+ SUD_communism:1 "Commune of the Sudan"
+ SUD_communism_DEF:1 "Commune of the Sudan"
+ SUD_communism_ADJ:0 "Sudanese"
+ #NonAligned
+ SUD_neutrality:0 "Sudan"
+ SUD_neutrality_DEF:0 "Sudan"
+ SUD_neutrality_ADJ:0 "Sudanese"
+ #Fascist
+ SUD_fascism:1 "Nubia"
+ SUD_fascism_DEF:1 "Nubia"
+ SUD_fascism_ADJ:1 "Nubia"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Eritrea######
+ 
+ ##Independent
+ #Generic
+ ERI:0 "Eritrea"
+ ERI_DEF:0 "Eritrea"
+ ERI_ADJ:0 "Eritrean"
+ #Democratic
+ ERI_democratic:0 "Eritrea"
+ ERI_democratic_DEF:0 "Eritrea"
+ ERI_democratic_ADJ:0 "Eritrean"
+ #Communist
+ ERI_communism:1 "Eritrean Democratic People's Republic"
+ ERI_communism_DEF:1 "the Eritrean Democratic People's Republic"
+ ERI_communism_ADJ:0 "Eritrean"
+ #NonAligned
+ ERI_neutrality:1 "Eritrean Kingdom"
+ ERI_neutrality_DEF:1 "the Eritrean Kingdom"
+ ERI_neutrality_ADJ:0 "Eritrean"
+ #Fascist
+ ERI_fascism:1 "Unitary Eritrea"
+ ERI_fascism_DEF:0 "Unitary Eritrea"
+ ERI_fascism_ADJ:0 "Eritrean"
 
  ##Puppet
  #Generic
