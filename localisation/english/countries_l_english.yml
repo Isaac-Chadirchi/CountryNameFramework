@@ -4314,7 +4314,7 @@ l_english:
  #Imperial
  #Collaboration Government
  
- ######COUNTRY######
+ ######Confederacy######
  
  ##Independent
  #Generic
@@ -4583,8 +4583,690 @@ l_english:
  ERI_neutrality_ADJ:0 "Eritrean"
  #Fascist
  ERI_fascism:1 "Unitary Eritrea"
- ERI_fascism_DEF:0 "Unitary Eritrea"
+ ERI_fascism_DEF:1 "Unitary Eritrea"
  ERI_fascism_ADJ:0 "Eritrean"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Djibouti######
+ 
+ ##Independent
+ #Generic
+ DJI:0 "Djibouti"
+ DJI_DEF:0 "Djibouti"
+ DJI_ADJ:0 "Djiboutian"
+ #Democratic
+ DJI_democratic:1 "Republic of Djibouti"
+ DJI_democratic_DEF:1 "the Republic of Djibouti"
+ DJI_democratic_ADJ:0 "Djiboutian"
+ #Communist
+ DJI_communism:1 "Djiboutian Socialist Republic"
+ DJI_communism_DEF:1 "the Djiboutian Socialist Republic"
+ DJI_communism_ADJ:0 "Djiboutian"
+ #NonAligned
+ DJI_neutrality:0 "Djibouti"
+ DJI_neutrality_DEF:0 "Djibouti"
+ DJI_neutrality_ADJ:0 "Djiboutian"
+ #Fascist
+ DJI_fascism:0 "Empire of Adal"
+ DJI_fascism_DEF:0 "the Empire of Adal"
+ DJI_fascism_ADJ:0 "Adal"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Somalia######
+ 
+ ##Independent
+ #Generic
+ SOM:0 "Somalia"
+ SOM_DEF:0 "Somalia"
+ SOM_ADJ:0 "Somalian"
+ #Democratic
+ SOM_democratic:0 "Somalia"
+ SOM_democratic_DEF:0 "Somalia"
+ SOM_democratic_ADJ:0 "Somalian"
+ #Communist
+ SOM_communism:1 "Somali Democratic Republic"
+ SOM_communism_DEF:1 "the Somali Democratic Republic"
+ SOM_communism_ADJ:0 "Somalian"
+ #NonAligned
+ SOM_neutrality:1 "Somali Sultanate"
+ SOM_neutrality_DEF:1 "the Somali Sultanate"
+ SOM_neutrality_ADJ:0 "Somalian"
+ #Fascist
+ SOM_fascism:1 "Ajuraan Empire"
+ SOM_fascism_DEF:1 "the Ajuraan Empire"
+ SOM_fascism_ADJ:1 "Ajuraan"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Uganda######
+ 
+ ##Independent
+ #Generic
+ UGA:0 "Uganda"
+ UGA_DEF:0 "Uganda"
+ UGA_ADJ:0 "Ugandan"
+ #Democratic
+ UGA_democratic:0 "Uganda"
+ UGA_democratic_DEF:0 "Uganda"
+ UGA_democratic_ADJ:0 "Ugandan"
+ #Communist
+ UGA_communism:1 "Ugandan People's Republic"
+ UGA_communism_DEF:1 "the Uganda People's Republic"
+ UGA_communism_ADJ:0 "Ugandan"
+ #NonAligned
+ UGA_neutrality:1 "Kingdom of Buganda"
+ UGA_neutrality_DEF:1 "the Kingdom of Buganda"
+ UGA_neutrality_ADJ:1 "Bugandan"
+ #Fascist
+ UGA_fascism:1 "Nationalist Uganda"
+ UGA_fascism_DEF:1 "Nationalist Uganda"
+ UGA_fascism_ADJ:0 "Ugandan"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Rwanda######
+ 
+ ##Independent
+ #Generic
+ RWA:0 "Rwanda"
+ RWA_DEF:0 "Rwanda"
+ RWA_ADJ:0 "Rwandan"
+ #Democratic
+ RWA_democratic:1 "Republic of Rwanda"
+ RWA_democratic_DEF:1 "the Republic of Rwanda"
+ RWA_democratic_ADJ:0 "Rwandan"
+ #Communist
+ RWA_communism:1 "Rwanda Commune"
+ RWA_communism_DEF:1 "the Rwanda Commune"
+ RWA_communism_ADJ:0 "Rwandan"
+ #NonAligned
+ RWA_neutrality:0 "Rwanda"
+ RWA_neutrality_DEF:0 "Rwanda"
+ RWA_neutrality_ADJ:0 "Rwandan"
+ #Fascist
+ RWA_fascism:1 "Rwanda Empire"
+ RWA_fascism_DEF:1 "the Rwanda Empire"
+ RWA_fascism_ADJ:0 "Rwandan"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Burundi######
+ 
+ ##Independent
+ #Generic
+ BRD:0 "Burundi"
+ BRD_DEF:0 "Burundi"
+ BRD_ADJ:0 "Burundi"
+ #Democratic
+ BRD_democratic:0 "Burundi"
+ BRD_democratic_DEF:0 "Burundi"
+ BRD_democratic_ADJ:0 "Burundi"
+ #Communist
+ BRD_communism:1 "Democratic People's Republic of Burundi"
+ BRD_communism_DEF:1 "the Democratic People's Republic of Burundi"
+ BRD_communism_ADJ:0 "Burundi"
+ #NonAligned
+ BRD_neutrality:1 "Kingdom of Burundi"
+ BRD_neutrality_DEF:1 "the Kingdom of Burundi"
+ BRD_neutrality_ADJ:0 "Burundi"
+ #Fascist
+ BRD_fascism:1 "Empire of Burundi"
+ BRD_fascism_DEF:1 "the Empire of Burundi"
+ BRD_fascism_ADJ:0 "Burundi"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Tanzania######
+ 
+ ##Independent
+ #Generic
+ TZN:0 "Tanzania"
+ TZN_DEF:0 "Tanzania"
+ TZN_ADJ:0 "Tanzanian"
+ #Democratic
+ TZN_democratic:1 "Republic of Tanzania"
+ TZN_democratic_DEF:1 "the Republic of Tanzania"
+ TZN_democratic_ADJ:0 "Tanzanian"
+ #Communist
+ TZN_communism:1 "Tanzanian Socialist Union"
+ TZN_communism_DEF:1 "the Tanzanian Socialist Union"
+ TZN_communism_ADJ:0 "Tanzanian"
+ #NonAligned
+ TZN_neutrality:0 "Tanzania"
+ TZN_neutrality_DEF:0 "Tanzania"
+ TZN_neutrality_ADJ:0 "Tanzanian"
+ #Fascist
+ TZN_fascism:1 "Nationalist Tanzanian State"
+ TZN_fascism_DEF:1 "the Nationalist Tanzanian State"
+ TZN_fascism_ADJ:0 "Tanzanian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Zambia######
+ 
+ ##Independent
+ #Generic
+ ZAM:0 "Zambia"
+ ZAM_DEF:0 "Zambia"
+ ZAM_ADJ:0 "Zambian"
+ #Democratic
+ ZAM_democratic:0 "Zambia"
+ ZAM_democratic_DEF:0 "Zambia"
+ ZAM_democratic_ADJ:0 "Zambian"
+ #Communist
+ ZAM_communism:1 "Zambian People's Republic"
+ ZAM_communism_DEF:0 "the Zambian People's Republic"
+ ZAM_communism_ADJ:0 "Zambian"
+ #NonAligned
+ ZAM_neutrality:1 "Kingdom of Zambia"
+ ZAM_neutrality_DEF:1 "the Kingdom of Zambia"
+ ZAM_neutrality_ADJ:0 "Zambian"
+ #Fascist
+ ZAM_fascism:1 "State of Zambia"
+ ZAM_fascism_DEF:1 "the State of Zambia"
+ ZAM_fascism_ADJ:0 "Zambian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Malawi######
+ 
+ ##Independent
+ #Generic
+ MLW:0 "Malawi"
+ MLW_DEF:0 "Malawi"
+ MLW_ADJ:0 "Malawian"
+ #Democratic
+ MLW_democratic:1 "Republic of Malawi"
+ MLW_democratic_DEF:1 "the Republic of Malawi"
+ MLW_democratic_ADJ:0 "Malawian"
+ #Communist
+ MLW_communism:1 "Communist Malawi"
+ MLW_communism_DEF:1 "Communist Malawi"
+ MLW_communism_ADJ:0 "Malawian"
+ #NonAligned
+ MLW_neutrality:0 "Malawi"
+ MLW_neutrality_DEF:0 "Malawi"
+ MLW_neutrality_ADJ:0 "Malawian"
+ #Fascist
+ MLW_fascism:1 "Empire of Malawi"
+ MLW_fascism_DEF:1 "the Empire of Malawi"
+ MLW_fascism_ADJ:0 "Malawian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Gabon######
+ 
+ ##Independent
+ #Generic
+ GAB:0 "Gabon"
+ GAB_DEF:0 "Gabon"
+ GAB_ADJ:0 "Gabonese"
+ #Democratic
+ GAB_democratic:1 "Gabonese Republic"
+ GAB_democratic_DEF:1 "the Gabonese Republic"
+ GAB_democratic_ADJ:0 "Gabonese"
+ #Communist
+ GAB_communism:1 "Gabonese Commune"
+ GAB_communism_DEF:1 "the Gabonese Commune"
+ GAB_communism_ADJ:0 "Gabonese"
+ #NonAligned
+ GAB_neutrality:0 "Gabon"
+ GAB_neutrality_DEF:0 "Gabon"
+ GAB_neutrality_ADJ:0 "Gabonese"
+ #Fascist
+ GAB_fascism:1 "Sovereign Gabonese State"
+ GAB_fascism_DEF:1 "the Sovereign Gabonese State"
+ GAB_fascism_ADJ:0 "Gabonese"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Congo######
+ 
+ ##Independent
+ #Generic
+ RCG:0 "Congo"
+ RCG_DEF:0 "Congo"
+ RCG_ADJ:0 "Congolese"
+ #Democratic
+ RCG_democratic:1 "Republic of the Congo"
+ RCG_democratic_DEF:1 "the Republic of the Congo"
+ RCG_democratic_ADJ:0 "Congolese"
+ #Communist
+ RCG_communism:1 "Democratic Republic of the West Congo"
+ RCG_communism_DEF:1 "the Democratic Republic of the West Congo"
+ RCG_communism_ADJ:0 "Congolese"
+ #NonAligned
+ RCG_neutrality:1 "Congo-Brazzaville"
+ RCG_neutrality_DEF:1 "Congo-Brazzaville"
+ RCG_neutrality_ADJ:0 "Congolese"
+ #Fascist
+ RCG_fascism:1 "Congo"
+ RCG_fascism_DEF:1 "Congo"
+ RCG_fascism_ADJ:0 "Congolese"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Equatorial Guinea######
+ 
+ ##Independent
+ #Generic
+ EQG:0 "Equatorial Guinea"
+ EQG_DEF:0 "Equatorial Guinea"
+ EQG_ADJ:0 "Equatorial Guinean"
+ #Democratic
+ EQG_democratic:1 "Republic of Equatorial Guinea"
+ EQG_democratic_DEF:1 "the Republic of Equatorial Guinea"
+ EQG_democratic_ADJ:0 "Equatorial Guinean"
+ #Communist
+ EQG_communism:1 "Equatorial Commune of Guinea"
+ EQG_communism_DEF:1 "the Equatorial Commune of Guinea"
+ EQG_communism_ADJ:0 "Equatorial Guinean"
+ #NonAligned
+ EQG_neutrality:0 "Equatorial Guinea"
+ EQG_neutrality_DEF:0 "Equatorial Guinea"
+ EQG_neutrality_ADJ:0 "Equatorial Guinean"
+ #Fascist
+ EQG_fascism:1 "Equatorial Empire of Guinea"
+ EQG_fascism_DEF:1 "the Equatorial Empire of Guinea"
+ EQG_fascism_ADJ:0 "Equatorial Guinean"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Cameroon######
+ 
+ ##Independent
+ #Generic
+ CMR:0 "Cameroon"
+ CMR_DEF:0 "Cameroon"
+ CMR_ADJ:0 "Cameroonian"
+ #Democratic
+ CMR_democratic:1 "Republic of Cameroon"
+ CMR_democratic_DEF:1 "Republic of Cameroon"
+ CMR_democratic_ADJ:0 "Cameroonian"
+ #Communist
+ CMR_communism:1 "Socialist Federation of Cameroon"
+ CMR_communism_DEF:1 "the Socialist Federation of Cameroon"
+ CMR_communism_ADJ:0 "Cameroonian"
+ #NonAligned
+ CMR_neutrality:0 "Cameroon"
+ CMR_neutrality_DEF:0 "Cameroon"
+ CMR_neutrality_ADJ:0 "Cameroonian"
+ #Fascist
+ CMR_fascism:1 "Nationalist Cameroon"
+ CMR_fascism_DEF:1 "Nationalist Cameroon"
+ CMR_fascism_ADJ:0 "Cameroonian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Central African Republic######
+ 
+ ##Independent
+ #Generic
+ CAR:0 "Central African Republic"
+ CAR_DEF:0 "Central African Republic"
+ CAR_ADJ:0 "Central African"
+ #Democratic
+ CAR_democratic:1 "Central African Federation"
+ CAR_democratic_DEF:1 "the Central African Federation"
+ CAR_democratic_ADJ:0 "Central African"
+ #Communist
+ CAR_communism:1 "Commune of Central African"
+ CAR_communism_DEF:1 "the Commune of Central African"
+ CAR_communism_ADJ:0 "Central African"
+ #NonAligned
+ CAR_neutrality:0 "Central African Republic"
+ CAR_neutrality_DEF:0 "Central African Republic"
+ CAR_neutrality_ADJ:0 "Central African"
+ #Fascist
+ CAR_fascism:1 "Central African Unitary State"
+ CAR_fascism_DEF:1 "the Central African Unitary State"
+ CAR_fascism_ADJ:0 "Central African"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Chad######
+ 
+ ##Independent
+ #Generic
+ CHA:0 "Chad"
+ CHA_DEF:0 "Chad"
+ CHA_ADJ:0 "Chadian"
+ #Democratic
+ CHA_democratic:1 "Republic of Chad"
+ CHA_democratic_DEF:1 "the Republic of Chad"
+ CHA_democratic_ADJ:0 "Chadian"
+ #Communist
+ CHA_communism:1 "Democratic People's Republic of Chad"
+ CHA_communism_DEF:1 "the Democratic People's Republic of Chad"
+ CHA_communism_ADJ:0 "Chadian"
+ #NonAligned
+ CHA_neutrality:0 "Chad"
+ CHA_neutrality_DEF:0 "Chad"
+ CHA_neutrality_ADJ:0 "Chadian"
+ #Fascist
+ CHA_fascism:1 "Pan-Sahelian Empire"
+ CHA_fascism_DEF:1 "the Pan-Sahelian Empire"
+ CHA_fascism_ADJ:0 "Chadian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Nigeria######
+ 
+ ##Independent
+ #Generic
+ NGA:0 "Nigeria"
+ NGA_DEF:0 "Nigeria"
+ NGA_ADJ:0 "Nigerian"
+ #Democratic
+ NGA_democratic:1 "Republic of Nigeria"
+ NGA_democratic_DEF:1 "the Republic of Nigeria"
+ NGA_democratic_ADJ:0 "Nigerian"
+ #Communist
+ NGA_communism:1 "Socialist Nigerian Federation"
+ NGA_communism_DEF:1 "the Socialist Nigerian Federation"
+ NGA_communism_ADJ:0 "Nigerian"
+ #NonAligned
+ NGA_neutrality:0 "Nigeria"
+ NGA_neutrality_DEF:0 "Nigeria"
+ NGA_neutrality_ADJ:0 "Nigerian"
+ #Fascist
+ NGA_fascism:1 "Nigerian Military State"
+ NGA_fascism_DEF:1 "Nigerian Military State"
+ NGA_fascism_ADJ:0 "Nigerian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Benin######
+ 
+ ##Independent
+ #Generic
+ DAH:0 "Benin"
+ DAH_DEF:0 "Benin"
+ DAH_ADJ:0 "Beninese"
+ #Democratic
+ DAH_democratic:1 "Benin"
+ DAH_democratic_DEF:1 "Benin"
+ DAH_democratic_ADJ:1 "Beninese"
+ #Communist
+ DAH_communism:1 "Socialist Republic of Dahomey"
+ DAH_communism_DEF:1 "Socialist Republic of Dahomey"
+ DAH_communism_ADJ:0 "Dahomeyan"
+ #NonAligned
+ DAH_neutrality:0 "Dahomey"
+ DAH_neutrality_DEF:0 "Dahomey"
+ DAH_neutrality_ADJ:0 "Dahomeyan"
+ #Fascist
+ DAH_fascism:1 "Benin Unitary Federation"
+ DAH_fascism_DEF:1 "the Benin Unitary Federation"
+ DAH_fascism_ADJ:1 "Beninese"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Togo######
+ 
+ ##Independent
+ #Generic
+ TOG:0 "Togo"
+ TOG_DEF:0 "Togo"
+ TOG_ADJ:0 "Togolese"
+ #Democratic
+ TOG_democratic:1 "Togolese Republic"
+ TOG_democratic_DEF:1 "the Togolese Republic"
+ TOG_democratic_ADJ:1 "Togolese"
+ #Communist
+ TOG_communism:1 "Togolese Commune"
+ TOG_communism_DEF:1 "the Togolese Commune"
+ TOG_communism_ADJ:0 "Togolese"
+ #NonAligned
+ TOG_neutrality:0 "Togo"
+ TOG_neutrality_DEF:0 "Togo"
+ TOG_neutrality_ADJ:0 "Togolese"
+ #Fascist
+ TOG_fascism:1 "Nationalist Togo"
+ TOG_fascism_DEF:1 "Nationalist Togo"
+ TOG_fascism_ADJ:1 "Togolese"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Ghana######
+ 
+ ##Independent
+ #Generic
+ GHA:0 "Ghana"
+ GHA_DEF:0 "Ghana"
+ GHA_ADJ:0 "Ghanaian"
+ #Democratic
+ GHA_democratic:1 "Republic of Ghana"
+ GHA_democratic_DEF:1 "the Republic of Ghana"
+ GHA_democratic_ADJ:0 "Ghanaian"
+ #Communist
+ GHA_communism:1 "Socialist State of Ghana"
+ GHA_communism_DEF:1 "the Socialist State of Ghana"
+ GHA_communism_ADJ:0 "Ghanaian"
+ #NonAligned
+ GHA_neutrality:0 "Ghana"
+ GHA_neutrality_DEF:0 "Ghana"
+ GHA_neutrality_ADJ:0 "Ghanaian"
+ #Fascist
+ GHA_fascism:1 "Ghana Empire"
+ GHA_fascism_DEF:1 "the Ghana Empire"
+ GHA_fascism_ADJ:0 "Ghanaian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Côte d'Ivoire######
+ 
+ ##Independent
+ #Generic
+ IVO:0 "Côte d'Ivoire"
+ IVO_DEF:0 "Côte d'Ivoire"
+ IVO_ADJ:0 "Ivorian"
+ #Democratic
+ IVO_democratic:1 "République de Côte d'Ivoire"
+ IVO_democratic_DEF:1 "the République de Côte d'Ivoire"
+ IVO_democratic_ADJ:0 "Ivorian"
+ #Communist
+ IVO_communism:1 "Ivory Commune"
+ IVO_communism_DEF:0 "the Ivory Commune"
+ IVO_communism_ADJ:0 "Ivorian"
+ #NonAligned
+ IVO_neutrality:0 "Côte d'Ivoire"
+ IVO_neutrality_DEF:0 "Côte d'Ivoire"
+ IVO_neutrality_ADJ:0 "Ivorian"
+ #Fascist
+ IVO_fascism:1 "Presidential Dictatorship of Côte d'Ivoire"
+ IVO_fascism_DEF:0 "the Presidential Dictatorship of Côte d'Ivoire"
+ IVO_fascism_ADJ:0 "Ivorian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Burkina Faso######
+ 
+ ##Independent
+ #Generic
+ VOL:0 "Upper Volta"
+ VOL_DEF:0 "Upper Volta"
+ VOL_ADJ:0 "Upper Voltan"
+ #Democratic
+ VOL_democratic:1 "Burkina Faso"
+ VOL_democratic_DEF:1 "Burkina Faso"
+ VOL_democratic_ADJ:1 "Burkinabé"
+ #Communist
+ VOL_communism:1 "Upper Volta Socialist Republic"
+ VOL_communism_DEF:1 "the Upper Volta Socialist Republic"
+ VOL_communism_ADJ:0 "Upper Voltan"
+ #NonAligned
+ VOL_neutrality:0 "Upper Volta"
+ VOL_neutrality_DEF:0 "Upper Volta"
+ VOL_neutrality_ADJ:0 "Upper Voltan"
+ #Fascist
+ VOL_fascism:1 "Authority of Upper Volta"
+ VOL_fascism_DEF:1 "the Authority of Upper Volta"
+ VOL_fascism_ADJ:0 "Upper Voltan"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Mali######
+ 
+ ##Independent
+ #Generic
+ MLI:0 "Mali"
+ MLI_DEF:0 "Mali"
+ MLI_ADJ:0 "Malian"
+ #Democratic
+ MLI_democratic:1 "Republic of Mali"
+ MLI_democratic_DEF:1 "the Republic of Mali"
+ MLI_democratic_ADJ:0 "Malian"
+ #Communist
+ MLI_communism:1 "Malian Socialist Worker State"
+ MLI_communism_DEF:1 "the Malian Socialist Worker State"
+ MLI_communism_ADJ:0 "Malian"
+ #NonAligned
+ MLI_neutrality:0 "Mali"
+ MLI_neutrality_DEF:0 "Mali"
+ MLI_neutrality_ADJ:0 "Malian"
+ #Fascist
+ MLI_fascism:1 "Resurgent Mali Empire"
+ MLI_fascism_DEF:1 "the Resurgent Mali Empire"
+ MLI_fascism_ADJ:0 "Malian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Sierra Leone######
+ 
+ ##Independent
+ #Generic
+ SIE:0 "Sierra Leone"
+ SIE_DEF:0 "Sierra Leone"
+ SIE_ADJ:0 "Sierra Leonean"
+ #Democratic
+ SIE_democratic:0 "Sierra Leone"
+ SIE_democratic_DEF:0 "Sierra Leone"
+ SIE_democratic_ADJ:0 "Sierra Leonean"
+ #Communist
+ SIE_communism:1 "Democratic People's Republic of Sierra Leone"
+ SIE_communism_DEF:1 "the Democratic People's Republic of Sierra Leone"
+ SIE_communism_ADJ:0 "Sierra Leonean"
+ #NonAligned
+ SIE_neutrality:1 "Kingdom of Sierra Leone"
+ SIE_neutrality_DEF:1 "the Kingdom of Sierra Leone"
+ SIE_neutrality_ADJ:0 "Sierra Leonean"
+ #Fascist
+ SIE_fascism:0 "Sierra Leone Junta"
+ SIE_fascism_DEF:0 "Sierra Leone Junta"
+ SIE_fascism_ADJ:0 "Sierra Leonean"
 
  ##Puppet
  #Generic
