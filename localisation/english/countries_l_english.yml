@@ -529,7 +529,7 @@ l_english:
  #Imperial
  #Collaboration Government
  
- ######Spain######
+ ###### Spain######
  
  ##Independent
  #Generic
@@ -5663,7 +5663,7 @@ l_english:
  TAH_communism:0 "Tahitian Commune"
  TAH_communism_DEF:0 "the Tahitian Commune"
  TAH_communism_ADJ:0 "Tahitian"
- #NonAligned - Vanilla doesn't have these from here on. IDK why, pdx things I guess. Anyway, I added them
+ #NonAligned
  TAH_neutrality:0 "Tahiti"
  TAH_neutrality_DEF:0 "Tahiti"
  TAH_neutrality_ADJ:0 "Tahitian"
@@ -5795,6 +5795,409 @@ l_english:
  SAM_fascism:0 "Manaist State of Samoa"
  SAM_fascism_DEF:0 "the Manaist State of Samoa"
  SAM_fascism_ADJ:0 "Samoan"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Hawai'i ######
+ 
+ ##Independent
+ #Generic
+ HAW:0 "Hawai'i"
+ HAW_DEF:0 "Hawai'i"
+ HAW_ADJ:0 "Hawai'ian"
+ #Democratic
+ HAW_democratic:0 "Hawai'ian Republic"
+ HAW_democratic_DEF:0 "the Hawai'i Republic"
+ HAW_democratic_ADJ:0 "Hawai'ian"
+ #Communist
+ HAW_communism:0 "Great Ohana Commonwealth"
+ HAW_communism_DEF:0 "the Great Ohana Commonwealth"
+ HAW_communism_ADJ:0 "Hawai'ian"
+ #NonAligned
+ HAW_neutrality:0 "Kingdom of Hawai'i"
+ HAW_neutrality_DEF:0 "the Kingdom of Hawai'i"
+ HAW_neutrality_ADJ:0 "Hawai'ian"
+ #Fascist
+ HAW_fascism:0 "Hawai'ian Empire"
+ HAW_fascism_DEF:0 "the Hawai'i Empire"
+ HAW_fascism_ADJ:0 "Hawai'ian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Slovenia ######
+ 
+ ##Independent
+ #Generic
+ SLV:0 "Slovenia"
+ SLV_DEF:0 "Slovenia"
+ SLV_ADJ:0 "Slovenian"
+ #Democratic
+ SLV_democratic:1 "Republic of Slovenia"
+ SLV_democratic_DEF:1 "the Republic of Slovenia"
+ SLV_democratic_ADJ:0 "Slovenian"
+ #Communist
+ SLV_communism:1 "Democratic People's Republic of Slovenia"
+ SLV_communism_DEF:1 "the Democratic People's Republic of Slovenia"
+ SLV_communism_ADJ:0 "Slovenian"
+ #NonAligned
+ SLV_neutrality:0 "Slovenia"
+ SLV_neutrality_DEF:0 "Slovenia"
+ SLV_neutrality_ADJ:0 "Slovenian"
+ #Fascist
+ SLV_fascism:1 "Falangist Slovenia"
+ SLV_fascism_DEF:1 "Falangist Slovenia"
+ SLV_fascism_ADJ:0 "Slovenian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Bosnia ######
+ 
+ ##Independent
+ #Generic
+ BOS:0 "Bosnia"
+ BOS_DEF:0 "Bosnia"
+ BOS_ADJ:0 "Bosnian"
+ #Democratic
+ BOS_democratic:1 "Bosnia-Herzegovina"
+ BOS_democratic_DEF:1 "Bosnia-Herzegovina"
+ BOS_democratic_ADJ:0 "Bosnian"
+ #Communist
+ BOS_communism:1 "Socialist Republic of Bosnia"
+ BOS_communism_DEF:1 "the Socialist Republic of Bosnia"
+ BOS_communism_ADJ:0 "Bosnian"
+ #NonAligned
+ BOS_neutrality:0 "Bosnia"
+ BOS_neutrality_DEF:0 "Bosnia"
+ BOS_neutrality_ADJ:0 "Bosnian"
+ #Fascist
+ BOS_fascism:1 "Bosnia-Herzegovinan Defensive Cooperative"
+ BOS_fascism_DEF:1 "the Bosnia-Herzegovinan Defensive Cooperative"
+ BOS_fascism_ADJ:0 "Bosnian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Herzegovina ######
+ 
+ ##Independent
+ #Generic
+ HRZ:0 "Herzegovina"
+ HRZ_DEF:0 "Herzegovina"
+ HRZ_ADJ:0 "Herzegovinan"
+ #Democratic
+ HRZ_democratic:0 "Republic of Herzegovina"
+ HRZ_democratic_DEF:0 "the Republic of Herzegovina"
+ HRZ_democratic_ADJ:0 "Herzegovinan"
+ #Communist
+ HRZ_communism:0 "Socialist Republic of Herzegovina"
+ HRZ_communism_DEF:0 "the Socialist Republic of Herzegovina"
+ HRZ_communism_ADJ:0 "Herzegovinan"
+ #NonAligned
+ HRZ_neutrality:0 "Herzegovina"
+ HRZ_neutrality_DEF:0 "Herzegovina"
+ HRZ_neutrality_ADJ:0 "Herzegovinan"
+ #Fascist
+ HRZ_fascism:0 "New Duchy of Saint Sava"
+ HRZ_fascism_DEF:0 "the Duchy of Saint Sava"
+ HRZ_fascism_ADJ:0 "Herzegovinan"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Macedonia ######
+ 
+ ##Independent
+ #Generic
+ MAC:0 "Macedonia"
+ MAC_DEF:0 "Macedonia"
+ MAC_ADJ:0 "Macedonian"
+ #Democratic
+ MAC_democratic:1 "Republic of Macedonia"
+ MAC_democratic_DEF:1 "the Republic of Macedonia"
+ MAC_democratic_ADJ:0 "Macedonian"
+ #Communist
+ MAC_communism:1 "Macedonian People's Republic"
+ MAC_communism_DEF:1 "the Macedonian People's Republic"
+ MAC_communism_ADJ:0 "Macedonian"
+ #NonAligned
+ MAC_neutrality:0 "Macedonia"
+ MAC_neutrality_DEF:0 "Macedonia"
+ MAC_neutrality_ADJ:0 "Macedonian"
+ #Fascist
+ MAC_fascism:1 "Greater Macedonia"
+ MAC_fascism_DEF:1 "Greater Macedonia"
+ MAC_fascism_ADJ:0 "Macedonian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Northern Ireland ######
+ 
+ ##Independent
+ #Generic
+ NIR:0 "Northern Ireland"
+ NIR_DEF:0 "Northern Ireland"
+ NIR_ADJ:0 "North Irish"
+ #Democratic
+ NIR_democratic:0 "Northern Ireland"
+ NIR_democratic_DEF:0 "Northern Ireland"
+ NIR_democratic_ADJ:0 "Northern Irish"
+ #Communist
+ NIR_communism:2 "Commune in the North of Ireland"
+ NIR_communism_DEF:2 "the Commune in the North of Ireland"
+ NIR_communism_ADJ:0 "North Irish"
+ #NonAligned
+ NIR_neutrality:0 "Ulster"
+ NIR_neutrality_DEF:0 "Ulster"
+ NIR_neutrality_ADJ:0 "Ulster"
+ #Fascist
+ NIR_fascism:0 "Ulster Nation"
+ NIR_fascism_DEF:0 "the Ulster Nation"
+ NIR_fascism_ADJ:0 "Ulster"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Spain (Civil War A) ######
+ 
+ ##Independent
+ #Generic
+ SPA:0 "Spain"
+ SPA_DEF:0 "Spain"
+ SPA_ADJ:0 "Spanish"
+ #Democratic
+ SPA_democratic:0 "Spain"
+ SPA_democratic_DEF:0 "Spain"
+ SPA_democratic_ADJ:0 "Spanish"
+ #Communist
+ SPA_communism:0 "Republician Spain"
+ SPA_communism_DEF:0 "Republican Spain"
+ SPA_communism_ADJ:0 "Spanish"
+ #NonAligned
+ SPA_neutrality:0 "Nationalist Spain"
+ SPA_neutrality_DEF:0 "Nationalist Spain"
+ SPA_neutrality_ADJ:0 "Spanish"
+ #Fascist
+ SPA_fascism:0 "Nationalist Spain"
+ SPA_fascism_DEF:0 "Nationalist Spain"
+ SPA_fascism_ADJ:0 "Spanish"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Spain (Civil War B) ######
+ 
+ ##Independent
+ #Generic
+ SPA:0 "Spain"
+ SPA_DEF:0 "Spain"
+ SPA_ADJ:0 "Spanish"
+ #Democratic
+ SPA_democratic:0 "Spain"
+ SPA_democratic_DEF:0 "Spain"
+ SPA_democratic_ADJ:0 "Spanish"
+ #Communist
+ SPA_communism:0 "Republician Spain"
+ SPA_communism_DEF:0 "Republican Spain"
+ SPA_communism_ADJ:0 "Spanish"
+ #NonAligned
+ SPA_neutrality:0 "Carlist Spain"
+ SPA_neutrality_DEF:0 "Carlist Spain"
+ SPA_neutrality_ADJ:0 "Spanish"
+ #Fascist
+ SPA_fascism:0 "Nationalist Spain"
+ SPA_fascism_DEF:0 "Nationalist Spain"
+ SPA_fascism_ADJ:0 "Spanish"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Spain (Civil War C) ######
+ 
+ ##Independent
+ #Generic
+ SPA:0 "Spain"
+ SPA_DEF:0 "Spain"
+ SPA_ADJ:0 "Spanish"
+ #Democratic
+ SPA_democratic:0 "Spain"
+ SPA_democratic_DEF:0 "Spain"
+ SPA_democratic_ADJ:0 "Spanish"
+ #Communist
+ SPA_communism:0 "Republician Spain"
+ SPA_communism_DEF:0 "Republican Spain"
+ SPA_communism_ADJ:0 "Spanish"
+ #NonAligned
+ SPA_neutrality:0 "Regional Defense Council of Aragon"
+ SPA_neutrality_DEF:0 "the Regional Defense Council of Aragon"
+ SPA_neutrality_ADJ:0 "Spanish"
+ #Fascist
+ SPA_fascism:0 "Nationalist Spain"
+ SPA_fascism_DEF:0 "Nationalist Spain"
+ SPA_fascism_ADJ:0 "Spanish"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Spain (Civil War D) ######
+ 
+ ##Independent
+ #Generic
+ SPA:0 "Spain"
+ SPA_DEF:0 "Spain"
+ SPA_ADJ:0 "Spanish"
+ #Democratic
+ SPA_democratic:0 "Spain"
+ SPA_democratic_DEF:0 "Spain"
+ SPA_democratic_ADJ:0 "Spanish"
+ #Communist
+ SPA_communism:0 "Republician Spain"
+ SPA_communism_DEF:0 "Republican Spain"
+ SPA_communism_ADJ:0 "Spanish"
+ #NonAligned
+ SPA_neutrality:0 "Regional Defense Council of Spain"
+ SPA_neutrality_DEF:0 "the Regional Defense Council of Spain"
+ SPA_neutrality_ADJ:0 "Spanish"
+ #Fascist
+ SPA_fascism:0 "Nationalist Spain"
+ SPA_fascism_DEF:0 "Nationalist Spain"
+ SPA_fascism_ADJ:0 "Spanish"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Basque Country ######
+ 
+ ##Independent
+ #Generic
+ NAV:0 "Basque Country"
+ NAV_DEF:0 "Basque Country"
+ NAV_ADJ:0 "Basque"
+ #Democratic
+ NAV_democratic:0 "Basque Country"
+ NAV_democratic_DEF:0 "the Basque Country"
+ NAV_democratic_ADJ:0 "Basque"
+ #Communist
+ NAV_communism:0 "Socialist Euzkal Herria"
+ NAV_communism_DEF:0 "Socialist Euzkal Herria"
+ NAV_communism_ADJ:0 "Euzkadi"
+ #NonAligned
+ NAV_neutrality:0 "Kingdom of Navarra"
+ NAV_neutrality_DEF:0 "the Kingdom of Navarra"
+ NAV_neutrality_ADJ:0 "Navarrese"
+ #Fascist
+ NAV_fascism:0 "Baskonia"
+ NAV_fascism_DEF:0 "Baskonia"
+ NAV_fascism_ADJ:0 "Basque"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Catalonia ######
+ 
+ ##Independent
+ #Generic
+ CAT:0 "Catalonia"
+ CAT_DEF:0 "Catalonia"
+ CAT_ADJ:0 "Catalan"
+ #Democratic
+ CAT_democratic:0 "Catalonian Free Republic"
+ CAT_democratic_DEF:0 "the Free Republic of Catalonia"
+ CAT_democratic_ADJ:0 "Catalan"
+ #Communist
+ CAT_communism:0 "Communion of Catalans"
+ CAT_communism_DEF:0 "the Catalonian Communion"
+ CAT_communism_ADJ:0 "Catalan"
+ #NonAligned
+ CAT_neutrality:0 "Catalonia"
+ CAT_neutrality_DEF:0 "Catalonia"
+ CAT_neutrality_ADJ:0 "Catalan"
+ #Fascist
+ CAT_fascism:0 "Catalan State"
+ CAT_fascism_DEF:0 "the Catalan State"
+ CAT_fascism_ADJ:0 "Catalan"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Galicia ######
+ 
+ ##Independent
+ #Generic
+ GLC:0 "Galicia"
+ GLC_DEF:0 "Galicia"
+ GLC_ADJ:0 "Galician"
+ #Democratic
+ GLC_democratic:1 "Republic of Galiza"
+ GLC_democratic_DEF:1 "the Republic of Galiza"
+ GLC_democratic_ADJ:1 "Galizn"
+ #Communist
+ GLC_communism:1 "Socialist Galiza"
+ GLC_communism_DEF:1 "the Galiza Socialist State"
+ GLC_communism_ADJ:1 "Galizan"
+ #NonAligned
+ GLC_neutrality:0 "Galicia"
+ GLC_neutrality_DEF:0 "Galicia"
+ GLC_neutrality_ADJ:0 "Galician"
+ #Fascist
+ GLC_fascism:1 "State of Gallaecia"
+ GLC_fascism_DEF:1 "the Gallaecian State"
+ GLC_fascism_ADJ:1 "Gallaecian"
 
  ##Puppet
  #Generic
