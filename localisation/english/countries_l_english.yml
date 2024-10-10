@@ -1,6 +1,6 @@
 l_english:
 
- # This file was made with pain and spite. F*ck you PDX, and f*ck you to whoever wrote / approved the vanilla file. A university dropout should not be better at writing readable code than someone who does it for a living.
+ # This file was made with pain and spite. F*ck you PDX, and f*ck you to whoever wrote / approved the vanilla file. A university dropout should not be better at writing readable code than someone who does it for a living. (pls hire me)
  #
  # I have done my best to preseve the vanilla data, and this includes some things that don't make sense. Some data has been moved over to countries_cosmetic_l_english.yml for consistency - mostly just instances referring to puppeting by specific nations
 
@@ -3725,7 +3725,7 @@ l_english:
  #Imperial
  #Collaboration Government
  
- ######Antilles######
+ ###### Netherlands Antilles / Aruba, Bonaire, and Curaçao ######
  
  ##Independent
  #Generic
@@ -3834,8 +3834,8 @@ l_english:
  JAM_communism_DEF:1 "the Commune of Jamaica"
  JAM_communism_ADJ:0 "Jamaican"
  #NonAligned
- JAM_neutrality:2 "Jamaican Princiapality"
- JAM_neutrality_DEF:2 "the Jamaican Princiapality"
+ JAM_neutrality:2 "Jamaican Principality"
+ JAM_neutrality_DEF:2 "the Jamaican Principality"
  JAM_neutrality_ADJ:0 "Jamaican"
  #Fascist
  JAM_fascism:1 "Xaymacan Empire"
@@ -5267,6 +5267,534 @@ l_english:
  SIE_fascism:0 "Sierra Leone Junta"
  SIE_fascism_DEF:0 "Sierra Leone Junta"
  SIE_fascism_ADJ:0 "Sierra Leonean"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Guinea######
+ 
+ ##Independent
+ #Generic
+ GNA:0 "Guinea"
+ GNA_DEF:0 "Guinea"
+ GNA_ADJ:0 "Guinean"
+ #Democratic
+ GNA_democratic:1 "Republic of Guinea"
+ GNA_democratic_DEF:1 "the Republic of Guinea"
+ GNA_democratic_ADJ:0 "Guinean"
+ #Communist
+ GNA_communism:1 "Socialist Republic of Guinea-Conakry"
+ GNA_communism_DEF:1 "the Socialist Republic of Guinea-Conakry"
+ GNA_communism_ADJ:0 "Guinean"
+ #NonAligned
+ GNA_neutrality:0 "Guinea"
+ GNA_neutrality_DEF:0 "Guinea"
+ GNA_neutrality_ADJ:0 "Guinean"
+ #Fascist
+ GNA_fascism:1 "Sovereign State of Guinea"
+ GNA_fascism_DEF:1 "the Sovereign State of Guinea"
+ GNA_fascism_ADJ:0 "Guinean"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Guinea-Bissau######
+ 
+ ##Independent
+ #Generic
+ GNB:0 "Guinea-Bissau"
+ GNB_DEF:0 "Guinea-Bissau"
+ GNB_ADJ:0 "Bissau-Guinean"
+ #Democratic
+ GNB_democratic:1 "Republic of Guinea-Bissau"
+ GNB_democratic_DEF:1 "the Republic of Guinea-Bissau"
+ GNB_democratic_ADJ:0 "Bissau-Guinean"
+ #Communist
+ GNB_communism:0 "Guinea-Bissau"
+ GNB_communism_DEF:0 "Guinea-Bissau"
+ GNB_communism_ADJ:0 "Bissau-Guinean"
+ #NonAligned
+ GNB_neutrality:1 "Constitutional State of Guinea-Bissau"
+ GNB_neutrality_DEF:1 "the Constitutional State of Guinea-Bissau"
+ GNB_neutrality_ADJ:0 "Bissau-Guinean"
+ #Fascist
+ GNB_fascism:1 "Dictatorial Guinea-Bissau"
+ GNB_fascism_DEF:1 "Dictatorial Guinea-Bissau"
+ GNB_fascism_ADJ:0 "Bissau-Guinean"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Senegal######
+ 
+ ##Independent
+ #Generic
+ SEN:0 "Senegal"
+ SEN_DEF:0 "Senegal"
+ SEN_ADJ:0 "Senegalese"
+ #Democratic
+ SEN_democratic:0 "Senegal"
+ SEN_democratic_DEF:0 "Senegal"
+ SEN_democratic_ADJ:0 "Senegalese"
+ #Communist
+ SEN_communism:1 "Democratic People's Republic of Senegal"
+ SEN_communism_DEF:1 "the Democratic People's Republic of Senegal"
+ SEN_communism_ADJ:0 "Senegalese"
+ #NonAligned
+ SEN_neutrality:1 "State of Jolof"
+ SEN_neutrality_DEF:1 "State of Jolof"
+ SEN_neutrality_ADJ:1 "Wolof"
+ #Fascist
+ SEN_fascism:1 "Senegal Dictatorial State"
+ SEN_fascism_DEF:1 "Senegal Dictatorial State"
+ SEN_fascism_ADJ:0 "Senegalese"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######The Gambia######
+ 
+ ##Independent
+ #Generic
+ GAM:0 "The Gambia"
+ GAM_DEF:0 "The Gambia"
+ GAM_ADJ:0 "Gambian"
+ #Democratic
+ GAM_democratic:0 "The Gambia"
+ GAM_democratic_DEF:1 "The Gambia"
+ GAM_democratic_ADJ:0 "Gambian"
+ #Communist
+ GAM_communism:1 "United Worker State of The Gambia"
+ GAM_communism_DEF:1 "the United Worker State of The Gambia"
+ GAM_communism_ADJ:0 "Gambian"
+ #NonAligned
+ GAM_neutrality:1 "Islamic Republic of The Gambia"
+ GAM_neutrality_DEF:1 "the Islamic Republic of The Gambia"
+ GAM_neutrality_ADJ:0 "Gambian"
+ #Fascist
+ GAM_fascism:1 "Nationalist The Gambia"
+ GAM_fascism_DEF:1 "Nationalist The Gambia"
+ GAM_fascism_ADJ:0 "Gambian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Wales######
+ 
+ ##Independent
+ #Generic
+ WLS:0 "Wales"
+ WLS_DEF:0 "Wales"
+ WLS_ADJ:0 "Welsh"
+ #Democratic
+ WLS_democratic:0 "Wales"
+ WLS_democratic_DEF:0 "Wales"
+ WLS_democratic_ADJ:0 "Welsh"
+ #Communist
+ WLS_communism:0 "Welsh People's Republic"
+ WLS_communism_DEF:0 "the Welsh People's Republic"
+ WLS_communism_ADJ:0 "Welsh"
+ #NonAligned
+ WLS_neutrality:0 "Principality of Wales"
+ WLS_neutrality_DEF:0 "the Principality Wales"
+ WLS_neutrality_ADJ:0 "Welsh"
+ #Fascist
+ WLS_fascism:0 "Cambria"
+ WLS_fascism_DEF:0 "Cambria"
+ WLS_fascism_ADJ:0 "Cambrian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Niger######
+ 
+ ##Independent
+ #Generic
+ NGR:0 "Niger"
+ NGR_DEF:0 "Niger"
+ NGR_ADJ:0 "Nigerien"
+ #Democratic
+ NGR_democratic:1 "Republic of the Niger"
+ NGR_democratic_DEF:1 "the Republic of the Niger"
+ NGR_democratic_ADJ:0 "Nigerien"
+ #Communist
+ NGR_communism:1 "Nigerien People's Republic"
+ NGR_communism_DEF:1 "the Nigerien People's Republic"
+ NGR_communism_ADJ:0 "Nigerien"
+ #NonAligned
+ NGR_neutrality:0 "Niger"
+ NGR_neutrality_DEF:0 "Niger"
+ NGR_neutrality_ADJ:0 "Nigerien"
+ #Fascist
+ NGR_fascism:1 "The Niger Ascendancy"
+ NGR_fascism_DEF:0 "The Niger Ascendancy"
+ NGR_fascism_ADJ:0 "Nigerien"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Mauritania######
+ 
+ ##Independent
+ #Generic
+ MRT:0 "Mauritania"
+ MRT_DEF:0 "Mauritania"
+ MRT_ADJ:0 "Mauritanian"
+ #Democratic
+ MRT_democratic:1 "Republic of Mauritania"
+ MRT_democratic_DEF:1 "the Republic of Mauritania"
+ MRT_democratic_ADJ:0 "Mauritanian"
+ #Communist
+ MRT_communism:1 "Revolutionary Mauritania"
+ MRT_communism_DEF:1 "Revolutionary Mauritania"
+ MRT_communism_ADJ:0 "Mauritanian"
+ #NonAligned
+ MRT_neutrality:0 "Mauritania"
+ MRT_neutrality_DEF:0 "Mauritania"
+ MRT_neutrality_ADJ:0 "Mauritanian"
+ #Fascist
+ MRT_fascism:1 "Caliphate of Mauritania"
+ MRT_fascism_DEF:1 "the Caliphate of Mauritania"
+ MRT_fascism_ADJ:0 "Mauritanian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ######Namibia######
+ 
+ ##Independent
+ #Generic
+ NMB:0 "Namibia"
+ NMB_DEF:0 "Namibia"
+ NMB_ADJ:0 "Namibian"
+ #Democratic
+ NMB_democratic:0 "Namibia"
+ NMB_democratic_DEF:0 "Namibia"
+ NMB_democratic_ADJ:0 "Namibian"
+ #Communist
+ NMB_communism:1 "Democratic People's Republic of Namibia"
+ NMB_communism_DEF:0 "the Democratic People's Republic of Namibia"
+ NMB_communism_ADJ:0 "Namibian"
+ #NonAligned
+ NMB_neutrality:1 "State of South West Africa"
+ NMB_neutrality_DEF:1 "the State of South West Africa"
+ NMB_neutrality_ADJ:1 "South West African"
+ #Fascist
+ NMB_fascism:1 "Namib Empire"
+ NMB_fascism_DEF:1 "the Namib Empire"
+ NMB_fascism_ADJ:0 "Namibian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial 
+ #Collaboration Government
+ 
+ ###### British West Indies / Antilles ######
+ 
+ ##Independent
+ #Generic
+ BAS:0 "Antilles"
+ BAS_DEF:0 "the Antilles"
+ BAS_ADJ:0 "Antillian"
+ #Democratic
+ BAS_democratic:1 "Republic of the British Antilles"
+ BAS_democratic_DEF:1 "the Republic of the British Antilles"
+ BAS_democratic_ADJ:0 "British Antillian"
+ #Communist
+ BAS_communism:1 "British Antillean Commune"
+ BAS_communism_DEF:1 "the British Antillean Commune"
+ BAS_communism_ADJ:0 "British Antillian"
+ #NonAligned
+ BAS_neutrality:1 "British Antillean Federation"
+ BAS_neutrality_DEF:1 "the British Antilleam Federation"
+ BAS_neutrality_ADJ:0 "British Antillian"
+ #Fascist
+ BAS_fascism:1 "Liberated States of the British West Indies"
+ BAS_fascism_DEF:1 "the Liberated States of the British West Indies"
+ BAS_fascism_ADJ:1 "British West Indies"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Guiana ######
+ 
+ ##Independent
+ #Generic
+ CAY:0 "Guiana"
+ CAY_DEF:0 "Guiana"
+ CAY_ADJ:0 "Guianan"
+ #Democratic
+ CAY_democratic:1 "Republic of Cayenne"
+ CAY_democratic_DEF:1 "the Republic of Cayenne"
+ CAY_democratic_ADJ:0 "Cayenne"
+ #Communist
+ CAY_communism:1 "Socialist Republic of French Guiana"
+ CAY_communism_DEF:1 "the Socialist Republic of French Guiana"
+ CAY_communism_ADJ:1 "French Guianan"
+ #NonAligned
+ CAY_neutrality:0 "Cayenne"
+ CAY_neutrality_DEF:0 "Cayenne"
+ CAY_neutrality_ADJ:0 "Cayenne"
+ #Fascist
+ CAY_fascism:1 "Cayenne Unitary State"
+ CAY_fascism_DEF:1 "the Cayenne Unitary State"
+ CAY_fascism_ADJ:0 "Cayenne"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Maldives ######
+ 
+ ##Independent
+ #Generic
+ MLD:0 "Maldives"
+ MLD_DEF:0 "Maldives"
+ MLD_ADJ:0 "Maldivian"
+ #Democratic
+ MLD_democratic:0 "Maldives"
+ MLD_democratic_DEF:0 "Maldives"
+ MLD_democratic_ADJ:0 "Maldivian"
+ #Communist
+ MLD_communism:1 "Maldive Commune"
+ MLD_communism_DEF:1 "the Maldive Commune"
+ MLD_communism_ADJ:0 "Maldivian"
+ #NonAligned
+ MLD_neutrality:1 "Sultanate of the Maldives"
+ MLD_neutrality_DEF:1 "the Sultanate of the Maldives"
+ MLD_neutrality_ADJ:0 "Maldivian"
+ #Fascist
+ MLD_fascism:1 "Resurgent Maldives"
+ MLD_fascism_DEF:1 "the Resurgent Maldives"
+ MLD_fascism_ADJ:0 "Maldivian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Fiji ######
+ 
+ ##Independent
+ #Generic
+ FIJ:0 "Fiji"
+ FIJ_DEF:0 "Fiji"
+ FIJ_ADJ:0 "Fijian"
+ #Democratic
+ FIJ_democratic:1 "Melanesian Federation"
+ FIJ_democratic_DEF:1 "the Melanesian Federation"
+ FIJ_democratic_ADJ:1 "Melanesian"
+ #Communist
+ FIJ_communism:1 "Pacific Worker State"
+ FIJ_communism_DEF:1 "the Pacific Worker State"
+ FIJ_communism_ADJ:1 "Pacific"
+ #NonAligned
+ FIJ_neutrality:0 "Fiji"
+ FIJ_neutrality_DEF:0 "Fiji"
+ FIJ_neutrality_ADJ:0 "Fijian"
+ #Fascist
+ FIJ_fascism:1 "Empire of the Seas"
+ FIJ_fascism_DEF:1 "the Empire of the Seas"
+ FIJ_fascism_ADJ:1 "Pacific"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Tahiti ######
+ # TAHITI, ARTHUR!
+ 
+ ##Independent
+ #Generic
+ TAH:0 "Tahiti"
+ TAH_DEF:0 "Tahiti"
+ TAH_ADJ:0 "Tahitian"
+ #Democratic
+ TAH_democratic:1 "French Polynesia"
+ TAH_democratic_DEF:1 "French Polynesia"
+ TAH_democratic_ADJ:1 "French Polynesian"
+ #Communist
+ TAH_communism:0 "Tahitian Commune"
+ TAH_communism_DEF:0 "the Tahitian Commune"
+ TAH_communism_ADJ:0 "Tahitian"
+ #NonAligned - Vanilla doesn't have these from here on. IDK why, pdx things I guess. Anyway, I added them
+ TAH_neutrality:0 "Tahiti"
+ TAH_neutrality_DEF:0 "Tahiti"
+ TAH_neutrality_ADJ:0 "Tahitian"
+ #Fascist
+ TAH_fascism:0 "Tahitian National Assembly"
+ TAH_fascism_DEF:0 "the Tahitian Assembly"
+ TAH_fascism_ADJ:0 "Tahitian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Micronesia ######
+ 
+ ##Independent
+ #Generic
+ FSM:0 "Micronesia"
+ FSM_DEF:0 "Micronesia"
+ FSM_ADJ:0 "Micronesian"
+ #Democratic
+ FSM_democratic:1 "Federated States of Micronesia"
+ FSM_democratic_DEF:1 "Federated States of Micronesia"
+ FSM_democratic_ADJ:0 "Micronesian"
+ #Communist
+ FSM_communism:0 "Greater Pohnpei Union State"
+ FSM_communism_DEF:0 "the Greater Pohnpei Union State"
+ FSM_communism_ADJ:0 "Pohnpei"
+ #NonAligned
+ FSM_neutrality:0 "Micronesia"
+ FSM_neutrality_DEF:0 "Micronesia"
+ FSM_neutrality_ADJ:0 "Micronesian"
+ #Fascist
+ FSM_fascism:0 "Second Saudeleur Dynastic Empire"
+ FSM_fascism_DEF:0 "the Saudeleur Dynastic Empire"
+ FSM_fascism_ADJ:0 "Saudeleur"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Mariana ######
+ 
+ ##Independent
+ #Generic
+ GUM:0 "Mariana"
+ GUM_DEF:0 "Mariana"
+ GUM_ADJ:0 "Mariana"
+ #Democratic
+ GUM_democratic:0 "Mariana Federation"
+ GUM_democratic_DEF:0 "the Mariana Federation"
+ GUM_democratic_ADJ:0 "Mariana"
+ #Communist
+ GUM_communism:0 "United Communes of Mariana"
+ GUM_communism_DEF:0 "the United Communes of Mariana"
+ GUM_communism_ADJ:0 "Mariana"
+ #NonAligned
+ GUM_neutrality:0 "Mariana"
+ GUM_neutrality_DEF:0 "Mariana"
+ GUM_neutrality_ADJ:0 "Mariana"
+ #Fascist
+ GUM_fascism:0 "Unitary Island State"
+ GUM_fascism_DEF:0 "the Unitary Island State"
+ GUM_fascism_ADJ:0 "Unitary Islander"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Solomon Islands ######
+ 
+ ##Independent
+ #Generic
+ SOL:0 "Solomon Islands"
+ SOL_DEF:0 "the Solomon Islands"
+ SOL_ADJ:0 "Solomon"
+ #Democratic
+ SOL_democratic:0 "Solomon Islands"
+ SOL_democratic_DEF:0 "the Solomon Islands"
+ SOL_democratic_ADJ:0 "Solomon"
+ #Communist
+ SOL_communism:0 "Solomon's Communes"
+ SOL_communism_DEF:0 "the Solomon's Communes"
+ SOL_communism_ADJ:0 "Solomon"
+ #NonAligned
+ SOL_neutrality:0 "Solomon Islands"
+ SOL_neutrality_DEF:0 "Solomon Islands"
+ SOL_neutrality_ADJ:0 "Solomon"
+ #Fascist
+ SOL_fascism:0 "Solomon's Empire"
+ SOL_fascism_DEF:0 "the Solomon's Empire"
+ SOL_fascism_ADJ:0 "Solomon"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Samoa ######
+ 
+ ##Independent
+ #Generic
+ SAM:0 "Samoa"
+ SAM_DEF:0 "Samoa"
+ SAM_ADJ:0 "Samoan"
+ #Democratic
+ SAM_democratic:0 "Independent State of Samoa"
+ SAM_democratic_DEF:0 "the Independent State of Samoa"
+ SAM_democratic_ADJ:0 "Samoan"
+ #Communist
+ SAM_communism:0 "Samoan Peoples Republic"
+ SAM_communism_DEF:0 "the Samoan Peoples Republic"
+ SAM_communism_ADJ:0 "Samoan"
+ #NonAligned
+ SAM_neutrality:0 "Samoa"
+ SAM_neutrality_DEF:0 "Samoa"
+ SAM_neutrality_ADJ:0 "Samoan"
+ #Fascist
+ SAM_fascism:0 "Manaist State of Samoa"
+ SAM_fascism_DEF:0 "the Manaist State of Samoa"
+ SAM_fascism_ADJ:0 "Samoan"
 
  ##Puppet
  #Generic
