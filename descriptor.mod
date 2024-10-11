@@ -1,6 +1,6 @@
-version="161"
+version="v0.1"
 tags={
 	"Fixes"
 }
-name="Country Name Framework"
-supported_version="1.14.5"
+name="Zak's Country Name Framework"
+supported_version="1.14.9"
