@@ -133,4 +133,136 @@
  #Collaboration Government
  
  
+ ###### France ######
+ 
+ ##Independent
+ #Generic
+ FRA: "France"
+ FRA_DEF: "France"
+ FRA_ADJ: "French"
+ #Democratic
+ FRA_democratic: "France"
+ FRA_democratic_DEF: "France"
+ FRA_democratic_ADJ: "French"
+ #Communist
+ FRA_communism: "French Commune"
+ FRA_communism_DEF: "the French Commune"
+ FRA_communism_ADJ: "French"
+ #NonAligned
+ FRA_neutrality: "Bourbon French"
+ FRA_neutrality_DEF: "Bourbon French"
+ FRA_neutrality_ADJ: "French"
+ #Fascist
+ FRA_fascism: "Nation Française"
+ FRA_fascism_DEF: "Nation Française"
+ FRA_fascism_ADJ: "French"
+
+ ##Puppet
+ #Generic
+ FRA_subject: "$OVERLORDADJ$ $FRA$"
+ FRA_subject_DEF: "$OVERLORDADJ$ $FRA$"
+ FRA_subject_ADJ: "French"
+ #Democratic
+ 
+ #Fascism
+ 
+ #Imperial
+ 
+ #Collaboration Government
+ 
+ 
+ ###### Britain ######
+ 
+ ##Independent
+ #Generic
+ ENG: "Britain"
+ ENG_DEF: "Britain"
+ ENG_ADJ: "British"
+ #Democratic
+ ENG_democratic: "United Kingdom"
+ ENG_democratic_DEF: "the United Kingdom"
+ ENG_democratic_ADJ: "British"
+ #Communist
+ ENG_communism: "Union of Britain"
+ ENG_communism_DEF: "the Union of Britain"
+ ENG_communism_ADJ: "British"
+ #NonAligned
+ ENG_neutrality: "Great Britain"
+ ENG_neutrality_DEF: "Great Britain"
+ ENG_neutrality_ADJ: "British"
+ #Fascist
+ ENG_fascism: "British Empire"
+ ENG_fascism_DEF: "the British Empire"
+ ENG_fascism_ADJ: "British"
+
+ ##Puppet
+ #Generic
+ ENG_democratic_subject: "$OVERLORDADJ$ Britain"
+ ENG_democratic_subject_DEF: "$OVERLORDADJ$ Britain"
+ ENG_democratic_subject_ADJ: "British"
+ ENG_communism_subject: "Socialist Republic of Great Britain"
+ ENG_communism_subject_DEF: "the Socialist Republic of Great Britain"
+ ENG_communism_subject_ADJ: "British"
+ ENG_neutrality_subject: "$OVERLORDADJ$ Britain"
+ ENG_neutrality_subject_DEF: "$OVERLORDADJ$ Britain"
+ ENG_neutrality_subject_ADJ: "British"
+ ENG_fascism_subject: "$OVERLORDADJ$ Protectorate of Britain"
+ ENG_fascism_subject_DEF: "the $OVERLORDADJ$ Protectorate of Britain"
+ ENG_fascism_subject_ADJ: "Britain"
+ #Democratic
+ 
+ #Fascism
+ 
+ #Imperial
+ 
+ #Collaboration Government
+ 
+ 
+ ###### United States of America ######
+ 
+ ##Independent
+ #Generic
+ USA: "America"
+ USA_DEF: "America"
+ USA_ADJ: "American"
+ #Democratic
+ USA_democratic: "United States"
+ USA_democratic_DEF: "the United States"
+ USA_democratic_ADJ: "American"
+ #Communist
+ USA_communism: "Communist States of America"
+ USA_communism_DEF: "the Communist States of America"
+ USA_communism_ADJ: "American"
+ #NonAligned
+ USA_neutrality: "America"
+ USA_neutrality_DEF: "America"
+ USA_neutrality_ADJ: "American"
+ #Fascist
+ USA_fascism: "Free American Empire"
+ USA_fascism_DEF: "the Free American Empire"
+ USA_fascism_ADJ: "American"
+
+ ##Puppet
+ #Generic
+ USA_democratic_subject: "$OVERLORDADJ$ North America"
+ USA_democratic_subject_DEF: "$OVERLORDADJ$ North America"
+ USA_democratic_subject_ADJ: "American"
+ USA_communism_subject: "North American Socialist Republic"
+ USA_communism_subject_DEF: "the North American Socialist Republic"
+ USA_communism_subject_ADJ: "American"
+ USA_neutrality_subject: "$OVERLORDADJ$ North American Territories"
+ USA_neutrality_subject_DEF: "the $OVERLORDADJ$ North American Territories"
+ USA_neutrality_subject_ADJ: "American"
+ USA_fascism_subject: "$OVERLORDADJ$ Protectorate of America"
+ USA_fascism_subject_DEF: "the $OVERLORDADJ$ Protectorate of America"
+ USA_fascism_subject_ADJ: "American"
+ #Democratic
+ 
+ #Fascism
+ 
+ #Imperial
+ 
+ #Collaboration Government
+ 
+ 
  
