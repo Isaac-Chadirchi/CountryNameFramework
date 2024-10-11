@@ -38,3 +38,99 @@
  #Imperial
  
  #Collaboration Government
+ 
+ 
+ ###### Italy ######
+ 
+ ##Independent
+ #Generic
+ ITA: "Italy"
+ ITA_DEF: "Italy"
+ ITA_ADJ: "Italian"
+ #Democratic
+ ITA_democratic: "Republican Italy"
+ ITA_democratic_DEF: "Republican Italy"
+ ITA_democratic_ADJ: "Italian"
+ #Communist
+ ITA_communism: "Italian Union"
+ ITA_communism_DEF: "the Italian Union"
+ ITA_communism_ADJ: "Italian"
+ #NonAligned
+ ITA_neutrality: "Kingdom of Italy"
+ ITA_neutrality_DEF: "the Kingdom of Italy"
+ ITA_neutrality_ADJ: "Italian"
+ #Fascist
+ ITA_fascism: "Italy"
+ ITA_fascism_DEF: "Italy"
+ ITA_fascism_ADJ: "Italian"
+
+ ##Puppet
+ #Generic
+ ITA_subject: "$OVERLORDADJ$ $ITA$"
+ ITA_subject_DEF: "$OVERLORDADJ$ $ITA$"
+ ITA_subject_ADJ: "$OVERLORDADJ$ $ITA$"
+ #Democratic
+ 
+ #Fascism
+ 
+ #Imperial
+ 
+ #Collaboration Government
+ 
+ 
+ ###### Russia / Soviet Union ######
+ 
+ ##Independent
+ #Generic
+ SOV: "Russia"
+ SOV_DEF: "Russia"
+ SOV_ADJ: "Russian"
+ #Democratic
+ SOV_democratic: "Russian Federation"
+ SOV_democratic_DEF: "the Russian Federation"
+ SOV_democratic_ADJ: "Russian"
+ #Communist
+ SOV_communism: "Soviet Union"
+ SOV_communism_DEF: "the Soviet Union"
+ SOV_communism_ADJ: "Soviet"
+ #NonAligned
+ SOV_neutrality: "Russia"
+ SOV_neutrality_DEF: "Russia"
+ SOV_neutrality_ADJ: "Russian"
+ #Fascist
+ SOV_fascism: "Russian Empire"
+ SOV_fascism_DEF: "Russian Empire"
+ SOV_fascism_ADJ: "Russian"
+
+ ##Puppet
+ #Generic
+ SOV_autonomy_dominion: "Russian Dominion"
+ SOV_autonomy_dominion_DEF: "the Russian Dominion"
+ SOV_autonomy_dominion_ADJ: "Russian"
+ SOV_autonomy_colony: "$OVERLORDADJ$ Russia"
+ SOV_autonomy_colony_DEF: "$OVERLORDADJ$ Russia"
+ SOV_autonomy_colony_ADJ: "Russian"
+ SOV_autonomy_puppet: "$OVERLORDADJ$ Russia"
+ SOV_autonomy_puppet_DEF: "$OVERLORDADJ$ Russia"
+ SOV_autonomy_puppet_ADJ: "Russian"
+ SOV_autonomy_integrated_puppet: "Russian Protectorate"
+ SOV_autonomy_integrated_puppet_DEF: "the Russian Protectorate"
+ SOV_autonomy_integrated_puppet_ADJ: "Russian"
+ #Democratic
+ SOV_autonomy_supervised_state: "$OVERLORDADJ$ Mandate of Russia"
+ SOV_autonomy_supervised_state_DEF: "the $OVERLORDADJ$ Mandate of Russia"
+ SOV_autonomy_supervised_state_ADJ: "Russian"
+ #Fascism
+ SOV_autonomy_reichsprotectorate: "Protectorate Russia"
+ SOV_autonomy_reichsprotectorate_DEF: "the Protectorate of Russia"
+ SOV_autonomy_reichsprotectorate_ADJ: "Russian"
+ SOV_autonomy_reichskommissariat: "Reichskommissariat Russia"
+ SOV_autonomy_reichskommissariat_DEF: "Reichskommissariat Russia"
+ SOV_autonomy_reichskommissariat_ADJ: "Russian"
+ #Imperial
+ SOV_autonomy_wtt_imperial_protectorate: "Imperial Protectorate of Russia"
+ SOV_autonomy_wtt_imperial_protectorate_DEF: "the Imperial Protectorate of Russia"
+ #Collaboration Government
+ 
+ 
+ 
