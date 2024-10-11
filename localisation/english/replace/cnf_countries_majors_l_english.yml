@@ -78,6 +78,44 @@
  #Collaboration Government
  
  
+ ###### Japan ######
+ 
+ ##Independent
+ #Generic
+ JAP: "Japan"
+ JAP_DEF: "Japan"
+ JAP_ADJ: "Japanese"
+ #Democratic
+ JAP_democratic: "State of Japan"
+ JAP_democratic_DEF: "the State of Japan"
+ JAP_democratic_ADJ: "Japanese"
+ #Communist
+ JAP_communism: "Japanese People's Republic"
+ JAP_communism_DEF: "the Japanese People's Republic"
+ JAP_communism_ADJ: "Japanese"
+ #NonAligned
+ JAP_neutrality: "Japanese Shogunate"
+ JAP_neutrality_DEF: "the Japanese Shogunate"
+ JAP_neutrality_ADJ: "Japanese"
+ #Fascist
+ JAP_fascism: "Japan"
+ JAP_fascism_DEF: "Japan"
+ JAP_fascism_ADJ: "Japanese"
+
+ ##Puppet
+ #Generic
+ JAP_subject: "$OVERLORDADJ$ $JAP$"
+ JAP_subject_DEF: "$OVERLORDADJ$ $JAP$"
+ JAP_subject_ADJ: "Japanese"
+ #Democratic
+ 
+ #Fascism
+ 
+ #Imperial
+ 
+ #Collaboration Government
+ 
+ 
  ###### Russia / Soviet Union ######
  
  ##Independent
@@ -99,7 +137,7 @@
  SOV_neutrality_ADJ: "Russian"
  #Fascist
  SOV_fascism: "Russian Empire"
- SOV_fascism_DEF: "Russian Empire"
+ SOV_fascism_DEF: "the Russian Empire"
  SOV_fascism_ADJ: "Russian"
 
  ##Puppet
