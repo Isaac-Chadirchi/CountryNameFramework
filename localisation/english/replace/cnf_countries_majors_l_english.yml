@@ -1,0 +1,40 @@
+l_english:
+ 
+ ###### Germany ######
+ 
+ ##Independent
+ #Generic
+ GER: "Germany"
+ GER_DEF: "Germany"
+ GER_ADJ: "German"
+ #Democratic
+ GER_democratic: "German Republic"
+ GER_democratic_DEF: "the German Republic"
+ GER_democratic_ADJ: "German"
+ #Communist
+ GER_communism: "Socialist Republic of Germany"
+ GER_communism_DEF: "the Socialist Republic of Germany"
+ GER_communism_ADJ: "German"
+ #NonAligned
+ GER_neutrality: "German Empire"
+ GER_neutrality_DEF: "the German Empire"
+ GER_neutrality_ADJ: "German"
+ #Fascist
+ GER_fascism: "German Reich"
+ GER_fascism_DEF: "the German Reich"
+ GER_fascism_ADJ: "German"
+
+ ##Puppet
+ #Generic
+ GER_autonomy_puppet: "$OVERLORDADJ$ Germany"
+ GER_autonomy_puppet_ADJ: "$OVERLORDADJ$ Germany"
+ GER_autonomy_puppet_DEF: "German"
+ #Democratic
+ GER_autonomy_supervised_state: "$OVERLORDADJ$ Occupation Zone"
+ GER_autonomy_supervised_state_DEF: "the $OVERLORDADJ$ Occupation Zone"
+ GER_autonomy_supervised_state_ADJ: "German"
+ #Fascism
+ 
+ #Imperial
+ 
+ #Collaboration Government
