@@ -6983,4 +6983,66 @@ l_english:
  #Imperial
  #Collaboration Government
  
+ ###### Tatarstan ######
+ 
+ ##Independent
+ #Generic
+ TAT:0 "Tatarstan"
+ TAT_DEF:0 "Tatarstan"
+ TAT_ADJ:0 "Tatar"
+ #Democratic
+ TAT_democratic:0 "Tatarstan"
+ TAT_democratic_DEF:0 "the Republic of Tatarstan"
+ TAT_democratic_ADJ:0 "Tatar"
+ #Communist
+ TAT_communism:0 "Tatar Worker's Republic"
+ TAT_communism_DEF:0 "the Tatar Worker's Republic"
+ TAT_communism_ADJ:0 "Tatar"
+ #NonAligned
+ TAT_neutrality:0 "Tatar Military Union"
+ TAT_neutrality_DEF:0 "the Tatar Military Union"
+ TAT_neutrality_ADJ:0 "Tatar"
+ #Fascist
+ TAT_fascism:0 "New Kazani Khanate"
+ TAT_fascism_DEF:0 "the New Kazani Khanate"
+ TAT_fascism_ADJ:0 "Kazani"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Chechnya ######
+ 
+ ##Independent
+ #Generic
+ CIN:0 "Chechnya"
+ CIN_DEF:0 "Chechnya"
+ CIN_ADJ:0 "Chechen"
+ #Democratic
+ CIN_democratic:0 "Chechen-Ingush Republic"
+ CIN_democratic_DEF:0 "the Chechen-Ingush Republic"
+ CIN_democratic_ADJ:0 "Chechen-Ingush"
+ #Communist
+ CIN_communism:0 "Chechen-Ingush People's Republic"
+ CIN_communism_DEF:0 "the Chechen-Ingush People's Republic"
+ CIN_communism_ADJ:0 "Chechen-Ingush"
+ #NonAligned
+ CIN_neutrality:0 "Chechnya-Ingushetia"
+ CIN_neutrality_DEF:0 "Chechnya-Ingushetia"
+ CIN_neutrality_ADJ:0 "Chechen-Ingush"
+ #Fascist
+ CIN_fascism:0 "Caucasian Emirate"
+ CIN_fascism_DEF:0 "the Caucasian Emirate"
+ CIN_fascism_ADJ:0 "Caucasian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
  
