@@ -6704,4 +6704,283 @@ l_english:
  #Imperial
  #Collaboration Government
  
+ ###### Danzig ######
+ 
+ ##Independent
+ #Generic
+ DNZ:0 "Danzig"
+ DNZ_DEF:0 "Danzig"
+ DNZ_ADJ:0 "Danzig"
+ #Democratic
+ DNZ_democratic:0 "Free City of Danzig"
+ DNZ_democratic_DEF:0 "the Free City of Danzig"
+ DNZ_democratic_ADJ:0 "Danzig"
+ #Communist
+ DNZ_communism:0 "Danzig Commune"
+ DNZ_communism_DEF:0 "the Danzig Commune"
+ DNZ_communism_ADJ:0 "Danzig"
+ #NonAligned
+ DNZ_neutrality:0 "Danzig"
+ DNZ_neutrality_DEF:0 "Danzig"
+ DNZ_neutrality_ADJ:0 "Danzig"
+ #Fascist
+ DNZ_fascism:0 "Free City of Danzig"
+ DNZ_fascism_DEF:0 "the Free City of Danzig"
+ DNZ_fascism_ADJ:0 "Danzig"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Silesia ######
+ 
+ ##Independent
+ #Generic
+ SIL:0 "Silesia"
+ SIL_DEF:0 "Silesia"
+ SIL_ADJ:0 "Silesian"
+ #Democratic
+ SIL_democratic:0 "Silesia"
+ SIL_democratic_DEF:0 "Silesia"
+ SIL_democratic_ADJ:0 "Silesian"
+ #Communist
+ SIL_communism:0 "Silesian People's Republic"
+ SIL_communism_DEF:0 "the Silesian People's Republic"
+ SIL_communism_ADJ:0 "Silesian"
+ #NonAligned
+ SIL_neutrality:0 "Dutchy of Silesia"
+ SIL_neutrality_DEF:0 "the Dutchy of Silesia"
+ SIL_neutrality_ADJ:0 "Silesian"
+ #Fascist
+ SIL_fascism:0 "Silesian State"
+ SIL_fascism_DEF:0 "the Silesian State"
+ SIL_fascism_ADJ:0 "Silesian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Kashubia ######
+ 
+ ##Independent
+ #Generic
+ KSH:0 "Kashubia"
+ KSH_DEF:0 "Kashubia"
+ KSH_ADJ:0 "Kashubian"
+ #Democratic
+ KSH_democratic:0 "Kashubia"
+ KSH_democratic_DEF:0 "Kashubia"
+ KSH_democratic_ADJ:0 "Kashubian"
+ #Communist
+ KSH_communism:0 "Kashubian Commune"
+ KSH_communism_DEF:0 "the Kashubian Commune"
+ KSH_communism_ADJ:0 "Kashubian"
+ #NonAligned
+ KSH_neutrality:0 "Dutchy of Pomeralia-Gdansk"
+ KSH_neutrality_DEF:0 "the Dutchy of Pomeralia-Gdansk"
+ KSH_neutrality_ADJ:0 "Kashubian"
+ #Fascist
+ KSH_fascism:0 "Kashubian Free State"
+ KSH_fascism_DEF:0 "the Kashubian Free State"
+ KSH_fascism_ADJ:0 "Kashubian"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Don Republic ######
+ 
+ ##Independent
+ #Generic
+ DON:0 "Don Republic"
+ DON_DEF:0 "Don Republic"
+ DON_ADJ:0 "Don"
+ #Democratic
+ DON_democratic:0 "Don Republic"
+ DON_democratic_DEF:0 "Don Republic"
+ DON_democratic_ADJ:0 "Don"
+ #Communist
+ DON_communism:0 "Don People's Republic"
+ DON_communism_DEF:0 "Don People's Republic"
+ DON_communism_ADJ:0 "Don"
+ #NonAligned
+ DON_neutrality:0 "Don Republic"
+ DON_neutrality_DEF:0 "Don Republic"
+ DON_neutrality_ADJ:0 "Don"
+ #Fascist
+ DON_fascism:0 "Don Host"
+ DON_fascism_DEF:0 "Don Host"
+ DON_fascism_ADJ:0 "Don"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Kuban Republic ######
+ 
+ ##Independent
+ #Generic
+ KUB:0 "Kuban Republic"
+ KUB_DEF:0 "Kuban Republic"
+ KUB_ADJ:0 "Kuban"
+ #Democratic
+ KUB_democratic:0 "Kuban Republic"
+ KUB_democratic_DEF:0 "Kuban Republic"
+ KUB_democratic_ADJ:0 "Kuban"
+ #Communist
+ KUB_communism:0 "Kuban People's Republic"
+ KUB_communism_DEF:0 "Kuban People's Republic"
+ KUB_communism_ADJ:0 "Kuban"
+ #NonAligned
+ KUB_neutrality:0 "Kuban Republic"
+ KUB_neutrality_DEF:0 "Kuban Republic"
+ KUB_neutrality_ADJ:0 "Kuban"
+ #Fascist
+ KUB_fascism:0 "Kuban Host"
+ KUB_fascism_DEF:0 "the Kuban Host"
+ KUB_fascism_ADJ:0 "Kuban"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Altai ######
+ 
+ ##Independent
+ #Generic
+ ALT:0 "Altai"
+ ALT_DEF:0 "Altai"
+ ALT_ADJ:0 "Altaian"
+ #Democratic
+ ALT_democratic:0 "Altai"
+ ALT_democratic_DEF:0 "the Altai Republic"
+ ALT_democratic_ADJ:0 "Altaian"
+ #Communist
+ ALT_communism:0 "Oyrot Soviet Republic"
+ ALT_communism_DEF:0 "the Oyrot Soviet Republic"
+ ALT_communism_ADJ:0 "Oyrati"
+ #NonAligned
+ ALT_neutrality:0 "Confederated Republic of Altai"
+ ALT_neutrality_DEF:0 "the Confederated Republic of Altai"
+ ALT_neutrality_ADJ:0 "Altaian"
+ #Fascist
+ ALT_fascism:0 "New Ghengisid Empire of Altainans and Oirats"
+ ALT_fascism_DEF:0 "the New Ghengisid Empire of Altainans and Oirats"
+ ALT_fascism_ADJ:0 "Altai-Oirati"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Kalmykia ######
+ 
+ ##Independent
+ #Generic
+ KAL:0 "Kalmykia"
+ KAL_DEF:0 "Kalmykia"
+ KAL_ADJ:0 "Kalmyk"
+ #Democratic
+ KAL_democratic:0 "Kalmykia"
+ KAL_democratic_DEF:0 "Kalmykia"
+ KAL_democratic_ADJ:0 "Kalmyk"
+ #Communist
+ KAL_communism:0 "Kalmyk Socialist Workers Union"
+ KAL_communism_DEF:0 "the Kalmyk Socialist Workers Union"
+ KAL_communism_ADJ:0 "Kalmyk"
+ #NonAligned
+ KAL_neutrality:0 "Kalmyk Khaganate"
+ KAL_neutrality_DEF:0 "the Kalmyk Khaganate"
+ KAL_neutrality_ADJ:0 "Kalmyk"
+ #Fascist
+ KAL_fascism:0 "Great Horde"
+ KAL_fascism_DEF:0 "the Great Horde"
+ KAL_fascism_ADJ:0 "Pan-Mongol"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Karelia ######
+ 
+ ##Independent
+ #Generic
+ KAR:0 "Karelia"
+ KAR_DEF:0 "Karelia"
+ KAR_ADJ:0 "Karelian"
+ #Democratic
+ KAR_democratic:0 "Karelia"
+ KAR_democratic_DEF:0 "the Republic of Karelia"
+ KAR_democratic_ADJ:0 "Karelian"
+ #Communist
+ KAR_communism:0 "Karelian People's Republic"
+ KAR_communism_DEF:0 "the Karelian People's Republic"
+ KAR_communism_ADJ:0 "Karelian"
+ #NonAligned
+ KAR_neutrality:0 "Karelo-Finnish Military Junta"
+ KAR_neutrality_DEF:0 "Karelo-Finnish Military Junta"
+ KAR_neutrality_ADJ:0 "Karelo-Finnish"
+ #Fascist
+ KAR_fascism:0 "Karelo-Finnic Unitary State"
+ KAR_fascism_DEF:0 "the Karelo-Finnic Unitary State"
+ KAR_fascism_ADJ:0 "Karelo-Finnic"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Crimea ######
+ 
+ ##Independent
+ #Generic
+ CRI:0 "Crimea"
+ CRI_DEF:0 "Crimea"
+ CRI_ADJ:0 "Crimean"
+ #Democratic
+ CRI_democratic:0 "Crimea"
+ CRI_democratic_DEF:0 "the Republic of Crimea"
+ CRI_democratic_ADJ:0 "Crimean"
+ #Communist
+ CRI_communism:0 "Crimean People's Republic"
+ CRI_communism_DEF:0 "the Crimean People's Republic"
+ CRI_communism_ADJ:0 "Crimean"
+ #NonAligned
+ CRI_neutrality:0 "Crimean Regime"
+ CRI_neutrality_DEF:0 "the Crimean Regime"
+ CRI_neutrality_ADJ:0 "Crimean"
+ #Fascist
+ CRI_fascism:0 "Crimean Khanate"
+ CRI_fascism_DEF:0 "the Crimean Khanate"
+ CRI_fascism_ADJ:0 "Crimean"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
  
