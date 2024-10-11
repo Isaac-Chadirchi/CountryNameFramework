@@ -7045,4 +7045,66 @@ l_english:
  #Imperial
  #Collaboration Government
  
+ ###### Dagestan ######
+ 
+ ##Independent
+ #Generic
+ DAG:0 "Dagestan"
+ DAG_DEF:0 "Dagestan"
+ DAG_ADJ:0 "Dagestani"
+ #Democratic
+ DAG_democratic:0 "Mountainous Republic of Dagestan"
+ DAG_democratic_DEF:0 "the Mountainous Republic of Dagestan"
+ DAG_democratic_ADJ:0 "Dagestani"
+ #Communist
+ DAG_communism:0 "Dagestani People's Republic"
+ DAG_communism_DEF:0 "the Dagestani People's Republic"
+ DAG_communism_ADJ:0 "Dagestani"
+ #NonAligned
+ DAG_neutrality:0 "Second North Caucasian Emirate"
+ DAG_neutrality_DEF:0 "the Second North Caucasian Emirate"
+ DAG_neutrality_ADJ:0 "North Caucasian"
+ #Fascist
+ DAG_fascism:0 "Legionary Dagestani State"
+ DAG_fascism_DEF:0 "Legionary Dagestani State"
+ DAG_fascism_ADJ:0 "Dagestani"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
+ ###### Buryatia ######
+ 
+ ##Independent
+ #Generic
+ BYA:0 "Buryatia"
+ BYA_DEF:0 "Buryatia"
+ BYA_ADJ:0 "Buryat"
+ #Democratic
+ BYA_democratic:0 "Republic of Buryatia"
+ BYA_democratic_DEF:0 "the Republic of Buryatia"
+ BYA_democratic_ADJ:0 "Buryat"
+ #Communist
+ BYA_communism:0 "Buryat-Mongol People's Union"
+ BYA_communism_DEF:0 "Buryat-Mongol People's Union"
+ BYA_communism_ADJ:0 "Buryat-Mongol"
+ #NonAligned
+ BYA_neutrality:0 "The Dharmatic Kingdom of Buryatia"
+ BYA_neutrality_DEF:0 "the Dharmatic Kingdom of Buryatia"
+ BYA_neutrality_ADJ:0 "Buryat"
+ #Fascist
+ BYA_fascism:0 "Great Buryat-Mongol Yuan Successor State"
+ BYA_fascism_DEF:0 "Great Buryat-Mongol Yuan Successor State"
+ BYA_fascism_ADJ:0 "Yuan-Mongol"
+
+ ##Puppet
+ #Generic
+ #Democratic
+ #Fascism
+ #Imperial
+ #Collaboration Government
+ 
  
