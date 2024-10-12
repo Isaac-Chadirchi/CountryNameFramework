@@ -257,6 +257,9 @@
  FRA_democratic: "France"
  FRA_democratic_DEF: "France"
  FRA_democratic_ADJ: "French"
+ FRA_FREE_democratic: "Free France"
+ FRA_FREE_democratic_DEF: "Free France"
+ FRA_FREE_democratic_ADJ: "French"
  #Communist
  FRA_communism: "French Commune"
  FRA_communism_DEF: "the French Commune"
@@ -265,10 +268,22 @@
  FRA_neutrality: "Bourbon French"
  FRA_neutrality_DEF: "Bourbon French"
  FRA_neutrality_ADJ: "French"
+ FRA_VICHY_neutrality: "Vichy France"
+ FRA_VICHY_neutrality_DEF: "Vichy France"
+ FRA_VICHY_neutrality_ADJ: "French"
+ FRA_THIRD_EMPIRE_neutrality: "French Empire"
+ FRA_THIRD_EMPIRE_neutrality_DEF: "the French Empire"
+ FRA_THIRD_EMPIRE_neutrality_ADJ: "French"
+ FRA_ORLEANS_neutrality: "Orléanist France"
+ FRA_ORLEANS_neutrality_DEF: "Orléanist France"
+ FRA_ORLEANS_neutrality_ADJ: "French"
  #Fascist
  FRA_fascism: "Nation Française"
  FRA_fascism_DEF: "Nation Française"
  FRA_fascism_ADJ: "French"
+ FRA_VICHY_fascism: "Vichy France"
+ FRA_VICHY_fascism_DEF: "Vichy France"
+ FRA_VICHY_fascism_ADJ: "French"
 
  ##Puppet
  #Generic
